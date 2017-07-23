@@ -1,0 +1,73 @@
+ID,NETWORK,HEADLINE,SENTIMENT-LABEL,SENTIMENT-SCORE,EMOTION-SADNESS,EMOTION-FEAR,EMOTION-ANGER,EMOTION-DISGUST,EMOTION-JOY,PUTIN,TRUMP,TRUDEAU
+1,RT,"‘Putin wanted Hillary Clinton to win the election’ – Trump                                                                    
+",neutral,0.0,0.270869,0.082043,0.179606,0.139299,0.256665,1,1,0
+2,RT,"Berlin to boost aviation safety amid fears hackers can hijack warplanes                                                                    
+",neutral,0.0,0.011869,0.755602,0.020501,0.034013,0.021755,0,0,0
+3,RT,"‘Humanity can’t continue to lose out to politics’ – UN relief chief makes plea to save Yemen                                                                    
+",negative,-0.962583,0.613501,0.071162,0.218139,0.293269,0.010185,0,0,0
+4,RT,"US senators aim to impose sanctions on financial entities dealing with North Korea                                                                    
+",negative,-0.573193,0.112259,0.146528,0.091876,0.118333,0.084398,0,0,0
+5,RT,"Emails to Trump Jr. on Russian lawyer meeting are full of lies – Agalarov’s attorney                                                                    
+",positive,0.439946,0.121639,0.339342,0.184405,0.068986,0.089517,0,0,0
+6,WT,"Times’ Legislative Activity Index shows good pace for unified Congress
+",positive,0.511017,0.086094,0.051677,0.029248,0.064249,0.646233,0,0,0
+7,WT,"Freedom Partners ramps up campaign against border tax
+",negative,-0.311455,0.168101,0.308238,0.081564,0.315799,0.104134,0,0,0
+8,WT,"Senate Judiciary chair plans to call former Trump campaign manager Manafort to testify
+",neutral,0.0,0.292049,0.039106,0.076854,0.565729,0.004063,0,1,0
+9,WT,"Obamacare repeal, replace plan stumbles in Senate
+",negative,-0.718434,0.250285,0.076911,0.236719,0.145273,0.041843,0,0,0
+10,WT,"Democrats reject Trump judge, then say they weren’t included in deliberations
+",neutral,0.0,0.617269,0.04556,0.095346,0.220868,0.002297,0,1,0
+11,WT,"In FBI confirmation hearing, Wray denies Russia investigation is a ‘witch hunt’ of Trump
+",neutral,0.0,0.256766,0.029172,0.339664,0.493034,0.007353,0,1,0
+12,WT,"Christopher Wray wins over Al Franken: ‘You’ve had a good hearing today’
+",neutral,0.0,0.042792,0.048304,0.037076,0.015742,0.80933,0,0,0
+13,WT,"House committee votes to reopen door for horse slaughter facilities to operate in U.S.
+",neutral,0.0,0.064947,0.116151,0.369222,0.477204,0.110445,0,0,0
+14,WT,"Warren takes early salvo from GOP hopeful: ‘A real Indian can defeat a fake Indian’
+",negative,-0.718139,0.748489,0.150538,0.160964,0.105759,0.00375,0,0,0
+15,WT,"Expanding the press corps: White House to stage talk radio marathon
+",neutral,0.0,0.102822,0.197631,0.145099,0.255513,0.249248,0,0,0
+16,WT,"Bermuda firm denies funneling Russian cash to anti-fracking groups
+",negative,-0.477504,0.525964,0.147223,0.242257,0.289853,0.023415,0,0,0
+17,WT,"Brad Sherman, California Democrat, launches long-shot bid to impeach Trump
+",neutral,0.0,0.38831,0.075367,0.070331,0.204422,0.099437,0,1,0
+18,WT,"A PR lesson for Trump from some angry Montana firefighters
+",positive,0.858726,0.028954,0.047798,0.935845,0.037097,0.014905,0,1,0
+19,WT,"Former DNC head Donna Brazile to release book on 2016 election hacks
+",neutral,0.0,0.399661,0.233457,0.381671,0.120674,0.048086,0,0,0
+20,WT,"Bernie Sanders keeping 2020 presidential bid on the table
+",neutral,0.0,0.063565,0.043173,0.072426,0.511236,0.144659,0,0,0
+21,CBC,"Former astronaut Julie Payette to be Canada's next governor general
+",neutral,0.0,0.263381,0.122293,0.109868,0.193667,0.190061,0,0,0
+22,CBC,"3 reasons the interest rate hike is good for the Trudeau Liberals
+",positive,0.747059,0.157146,0.016846,0.074209,0.308843,0.469893,0,0,1
+23,CBC,"Omar Khadr fights attempt by soldier's widow to freeze his assets
+",negative,-0.413576,0.592513,0.242899,0.154527,0.127652,0.00573,0,0,0
+24,CBC,"Watch Power & Politics for July 12, 2017
+",positive,0.574348,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+25,CBC,"What 3 legal minds think about the Omar Khadr settlement
+",neutral,0.0,0.140624,0.168885,0.161364,0.062307,0.256602,0,0,0
+26,CBC,"Bank of Canada raises interest rate for 1st time in 7 years to 0.75%
+",negative,-0.526206,0.249858,0.050646,0.058354,0.089373,0.275828,0,0,0
+27,CBC,"Canadian military exchange pilots flew in combat: documents
+",neutral,0.0,0.121176,0.133597,0.13757,0.293365,0.033898,0,0,0
+28,CBC,"Don't drain the swamp: report says wetlands help avert flood damage
+",negative,-0.776631,0.28728,0.323545,0.221157,0.065788,0.005999,0,0,0
+29,CBC,"Manitoba families want national MMIWG inquiry commissioners replaced, regional inquiry created
+",neutral,0.0,0.183581,0.029994,0.096102,0.16095,0.273637,0,0,0
+30,CBC,"'What is going on?': Family members want to know what's happening to MMIWG inquiry
+",neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+31,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech
+",positive,0.688072,,,,,,0,0,0
+32,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate
+",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+33,CBC,"Missing and murdered inquiry to forge ahead despite resignation of key commissioner
+",negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+34,CBC,"Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence
+",neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+35,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back
+",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+36,CBC,"Watch Power & Politics for July 11, 2017
+",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
