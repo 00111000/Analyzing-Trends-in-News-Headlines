@@ -10,6 +10,8 @@ def remove_punctuation(s):
     s = s.replace('‘', '')
     s = s.replace('–', '')
     s = s.replace('’', '')
+    s = s.replace('\n', '')
+    s = s.replace('\t', '')
 
     return s
 
@@ -18,18 +20,22 @@ countries = {}
 
 headline = ''
 network = ''
-id = 1
+id = 0
 trump = 0
 putin = 0
 trudeau = 0
+date = ''
+time = ''
+
+date_counter = 0
 
 with open('2.txt', 'r') as fp:
 
     # Create a CSV file and define the headers
     csv_file = csv.writer(open("test.csv", "w"))
     csv_file.writerow(
-        ['ID', 'NETWORK', 'HEADLINE', 'SENTIMENT-LABEL', 'SENTIMENT-SCORE', 'EMOTION-SADNESS', 'EMOTION-FEAR',
-         'EMOTION-ANGER', 'EMOTION-DISGUST', 'EMOTION-JOY', 'PUTIN', 'TRUMP', 'TRUDEAU'])
+        ['ID', 'DATE', 'TIME', 'NETWORK', 'HEADLINE', 'SENTIMENT_LABEL', 'SENTIMENT_SCORE', 'EMOTION_SADNESS', 'EMOTION_FEAR',
+         'EMOTION_ANGER', 'EMOTION_DISGUST', 'EMOTION_JOY', 'PUTIN', 'TRUMP', 'TRUDEAU'])
 
     while True:
 
@@ -39,8 +45,13 @@ with open('2.txt', 'r') as fp:
         if data == '':
             break
 
+        if date_counter == 0:
+            date = data[:10]
+            time = data[12:].replace('\n', '')
+            date_counter += 1
+
         if data[0] == 'H':
-            headline = data[2:]
+            headline = data[2:].replace('\n', '')
 
             cleaned_text = remove_punctuation(headline).lower()
 
@@ -54,7 +65,7 @@ with open('2.txt', 'r') as fp:
                 trudeau += 1
 
         if data[0] == 'N':
-            network = data[2:]
+            network = remove_punctuation(data[2:])
 
         if data[0] == 'J':
 
@@ -78,6 +89,8 @@ with open('2.txt', 'r') as fp:
 
             # Write row with data and set cursor to next row
             csv_file.writerow([id,
+                               date,
+                               time,
                                network,
                                headline,
                                json_data['sentiment']['document']['label'] if 'sentiment' in json_data else '',
@@ -97,6 +110,8 @@ with open('2.txt', 'r') as fp:
             trump = 0
             putin = 0
             trudeau = 0
+
+date_counter = 0
 
 fp.close()
 
