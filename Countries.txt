@@ -1,0 +1,38 @@
+// Morning
+
+{
+  "Afghanistan": 5,
+  "Australia": 1,
+  "Azerbaijan": 1,
+  "Bermuda": 1,
+  "Canada": 110,
+  "China": 13,
+  "Egypt": 1,
+  "Germany": 8,
+  "India": 3,
+  "Iran": 10,
+  "Iraq": 11,
+  "Israel": 3,
+  "Italy": 1,
+  "Japan": 3,
+  "South Korea": 6,
+  "Mexico": 2,
+  "North Korea": 8,
+  "Poland": 2,
+  "Qatar": 5,
+  "Quebec": 4,
+  "Russia": 73,
+  "Saudi Arabia": 5,
+  "Syria": 12,
+  "Sweden": 1,
+  "Taiwan": 1,
+  "Turkey": 6,
+  "UAE": 2,
+  "UK": 3,
+  "US": 151,
+  "Ukraine": 6,
+  "Venezuela": 4,
+  "Yemen": 1
+}
+
+countries = [["Afghanistan", 5], ["Australia", 1], ["Azerbaijan", 1], ["Canada", 110], ["China", 13], ["Egypt", 1], ["Germany", 8], ["India", 3], ["Iran", 10], ["Iraq", 11], ["Israel", 3], ["Italy", 1], ["Japan", 3], ["South Korea", 6], ["Mexico", 2], ["North Korea", 8], ["Poland", 2], ["Qatar", 5], ["Quebec", 4], ["Russia", 73], ["Saudi Arabia", 5], ["Syria", 12], ["Sweden", 1], ["Taiwan", 1], ["Turkey", 6], ["UAE", 2], ["UK", 3], ["US", 151], ["Ukraine", 6], ["Venezuela", 4], ["Yemen", 1]]

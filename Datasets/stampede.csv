@@ -1,0 +1,673 @@
+ID,DATE,NETWORK,HEADLINE,SENTIMENT_LABEL,SENTIMENT_SCORE,EMOTION_SADNESS,EMOTION_FEAR,EMOTION_ANGER,EMOTION_DISGUST,EMOTION_JOY,PUTIN,TRUMP,TRUDEAU
+0,2017-07-11,RT,THAAD shoots down 1st IRBM over Alaska – Missile Defense Agency                                                                    ,neutral,0.0,0.25777,0.160183,0.214884,0.192364,0.161918,0,0,0
+1,2017-07-11,RT,UK’s £3bn aircraft carrier could be sunk by cheap missiles – security think-tank                                                                    ,neutral,0.0,0.251197,0.173666,0.105967,0.326115,0.009723,0,0,0
+2,2017-07-11,RT,"North Korea unlikely to have ICBM technology, South intel says as Kim celebrates launch                                                                    ",neutral,0.0,0.319849,0.063839,0.02861,0.082102,0.522026,0,0,0
+3,2017-07-11,RT,Schoolboy interviews Defence Secretary Mattis after spying phone number in photo                                                                    ,neutral,0.0,0.066638,0.064535,0.026203,0.097808,0.329629,0,0,0
+4,2017-07-11,RT,‘Intense Russophobia’: US activist advises companies not to insure Russian ambassador’s life                                                                    ,neutral,0.0,0.10798,0.318806,0.040444,0.0401,0.225358,0,0,0
+5,2017-07-11,WT,"Bernie Sanders most popular senator, Mitch McConnell the least: Poll",negative,-0.342372,0.131367,0.036013,0.035269,0.357914,0.009553,0,0,0
+6,2017-07-11,WT,Adam Schiff: Trump Jr. will be asked to appear before House intel panel after NYT email report,neutral,0.0,0.127763,0.285114,0.071534,0.15607,0.010929,0,0,0
+7,2017-07-11,WT,White House points collusion-seeking reporters toward the Democratic National Committee,neutral,0.0,0.369576,0.210396,0.056824,0.189577,0.182479,0,0,0
+8,2017-07-11,WT,Merkley says Cruz amendment to health care bill ‘a pathway to fake insurance’,negative,-0.406464,0.32798,0.035249,0.355719,0.439275,0.029303,0,0,0
+9,2017-07-11,WT,Nancy Pelosi: She’s still ‘worth the trouble’ for Democrats ,negative,-0.818104,0.566327,0.117232,0.215011,0.131655,0.076151,0,0,0
+10,2017-07-11,WT,Christie calls constituent a ‘bum’ on radio program after beach criticism,neutral,0.0,0.224503,0.281299,0.120528,0.083993,0.10449,0,0,0
+11,2017-07-11,WT,"Trump’s voter commission suspends data collection, awaits judge’s ruling",neutral,0.0,0.612852,0.127228,0.052316,0.151479,0.031132,0,1,0
+12,2017-07-11,WT,Republicans vow new Obamacare repeal bill,negative,-0.848556,0.103027,0.037822,0.145433,0.290798,0.238673,0,0,0
+13,2017-07-11,WT,GOP Sen. Tillis tries to force more foreign guest-workers by putting hold on Trump nominee,negative,-0.511196,0.261665,0.099353,0.274029,0.336551,0.003426,0,1,0
+14,2017-07-11,WT,Russian lawyer who contacted Trump’s son earlier lobbied against U.S. law despised by Putin,neutral,0.0,0.232225,0.199369,0.064202,0.1591,0.069726,1,1,0
+15,2017-07-11,WT,Hill panel calls for Donald Trump Jr. to testify on Russia meeting,neutral,0.0,0.154424,0.071077,0.104125,0.073564,0.122262,0,0,0
+16,2017-07-11,WT,Press association turned down White House request to denounce a news report on Trump,negative,-0.314624,0.236845,0.117857,0.128189,0.301898,0.029652,0,1,0
+17,2017-07-11,WT,Just 23 percent have been confirmed: Obstruction of Trump nominees is unprecedented,negative,-0.438628,0.066508,0.04281,0.024371,0.041498,0.125652,0,1,0
+18,2017-07-11,WT,Facebook’s Mark Zuckerberg travels ‘listening tour’ path of presidential candidates,positive,0.757151,0.131114,0.020997,0.007159,0.09013,0.657344,0,0,0
+19,2017-07-11,WT,Gun background check totals drop as market adjusts to Trump,neutral,0.0,0.216415,0.228978,0.59515,0.061601,0.028127,0,1,0
+20,2017-07-11,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
+21,2017-07-11,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
+22,2017-07-11,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
+23,2017-07-11,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
+24,2017-07-11,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
+25,2017-07-11,CBC,"After years of missteps, Canadian military officials hope procurement now on track",neutral,0.0,0.106229,0.27531,0.061647,0.517914,0.180405,0,0,0
+26,2017-07-11,CBC,Poll Tracker: Federal poll averages and seat projections,neutral,0.0,0.09698,0.103342,0.067037,0.064531,0.020892,0,0,0
+27,2017-07-11,CBC,"On Khadr, Trudeau says Charter protects all Canadians 'even when it is uncomfortable'",negative,-0.311165,0.297915,0.052198,0.071755,0.541809,0.123047,0,0,1
+28,2017-07-11,CBC,"Amazon Prime does more for northern food security than federal subsidies, say Iqaluit residents",neutral,0.0,0.275872,0.129643,0.072001,0.366348,0.141894,0,0,0
+29,2017-07-11,CBC,"Canada, EU to provisionally apply CETA in September",neutral,0.0,0.292045,0.112958,0.027647,0.017861,0.054082,0,0,0
+30,2017-07-11,CBC,G20 leaders steel themselves for Trump's next trade move,neutral,0.0,0.262031,0.147694,0.178032,0.191246,0.256598,0,1,0
+31,2017-07-11,CBC,"Liberals defend and Tories attack Omar Khadr payout, both citing principles",neutral,0.0,0.091526,0.077817,0.260603,0.776016,0.007655,0,0,0
+32,2017-07-11,CBC,G20 leaders reaffirm support of Paris climate change agreement without U.S.,neutral,0.0,0.178425,0.175091,0.078784,0.209567,0.126822,0,0,0
+33,2017-07-11,CBC,"Sask. sends aircraft, firefighters to help fight B.C. wildfires",neutral,0.0,0.133518,0.138343,0.124503,0.032942,0.061517,0,0,0
+34,2017-07-11,CBC,Canada pledges $20M for women's entrepreneurship program,positive,0.574585,0.112963,0.078782,0.023798,0.139346,0.453671,0,0,0
+35,2017-07-11,CBC,El Salvador woman at the heart of legal challenge to Safe Third Country Agreement,positive,0.460505,0.191086,0.210511,0.020324,0.08814,0.4193,0,0,0
+36,2017-07-12,RT,‘Fight far from over’: US troops expected to stay in Iraq after ISIS’ defeat                                                                    ,negative,-0.664433,0.415676,0.250427,0.251139,0.144927,0.029189,0,0,0
+37,2017-07-12,RT,"China sends ships, troops to 1st overseas military base in Horn of Africa                                                                    ",neutral,0.0,0.284041,0.101174,0.01342,0.186453,0.030309,0,0,0
+38,2017-07-12,RT,‘Wild & overblown’: Lavrov blasts media hype over Trump Jr. meeting with Russian lawyer                                                                    ,negative,-0.591817,0.111778,0.208269,0.060076,0.047611,0.547981,0,0,0
+39,2017-07-12,RT,‘Collateral Murder’: 10th anniversary of infamous airstrike that exposed US cover-up (VIDEO)                                                                    ,negative,-0.773642,0.233204,0.065948,0.249766,0.299355,0.133926,0,0,0
+40,2017-07-12,RT,#FontGate: Forged docs from Pakistani PM’s daughter’s betrayed by Microsoft Word font                                                                    ,negative,-0.428965,0.580335,0.055432,0.260306,0.041088,0.057626,0,0,0
+41,2017-07-12,WT,Pence says Trump ‘will continue to provide leadership’,neutral,0.0,0.122046,0.132922,0.071385,0.195196,0.083179,0,1,0
+42,2017-07-12,WT,Rand Paul slams revised GOP health care bill,neutral,0.0,0.166281,0.022432,0.26994,0.218037,0.293476,0,0,0
+43,2017-07-12,WT,"Sen. Tom Cotton urges Tillerson, Trump not to certify Iran deal",neutral,0.0,0.134248,0.098784,0.29827,0.277221,0.112101,0,1,0
+44,2017-07-12,WT,"House Democrats admit Obamacare is faltering in places, suggest fixes",negative,-0.593543,0.280995,0.166828,0.139859,0.252081,0.138107,0,0,0
+45,2017-07-12,WT,"Chris Wray, FBI director nominee: ‘My loyalty is to the Constitution and the rule of law’",neutral,0.0,0.259761,0.094173,0.126704,0.269275,0.053059,0,0,0
+46,2017-07-12,WT,Bipartisan group of mayors denounce Trump’s cuts to block grants to communities,negative,-0.441523,0.318957,0.101876,0.344053,0.180704,0.199714,0,1,0
+47,2017-07-12,WT,Kevin Brady: House plans to make tax cuts permanent,negative,-0.682001,0.258313,0.122445,0.130828,0.180571,0.06653,0,0,0
+48,2017-07-12,WT,Rep. Darrell Issa gets another challenger in California’s 49th,neutral,0.0,0.547234,0.029498,0.245739,0.034998,0.078942,0,0,0
+49,2017-07-12,WT,Trump says White House working ‘perfectly’ amid latest Russia uproar,negative,-0.720813,0.259555,0.155929,0.072434,0.086379,0.43268,0,1,0
+50,2017-07-12,WT,Mike Pence’s spokesman: ‘Not aware’ of Donald Trump Jr.’s meeting with Russian lawyer,neutral,0.0,0.021051,0.289306,0.029994,0.039081,0.200344,0,0,0
+51,2017-07-12,WT,Republican voters still want Obamacare repealed and replaced: Poll,negative,-0.674865,0.344958,0.044337,0.185942,0.444232,0.022713,0,0,0
+52,2017-07-12,WT,"Trump tweets in defense of Donald Jr., slams media ",neutral,0.0,0.144916,0.07753,0.174125,0.452221,0.062899,0,0,0
+53,2017-07-12,WT,Chris Coons isn’t ready to accuse Donald Trump Jr. of treason,negative,-0.515569,0.014018,0.00687,0.516547,0.106658,0.049566,0,0,0
+54,2017-07-12,WT,Tim Kaine on Trump-Russia probe: ‘This is moving into … potentially treason’,neutral,0.0,0.272085,0.292717,0.076566,0.068616,0.141065,0,1,0
+55,2017-07-12,WT,Angus King: Senate Republicans need to be more open in health care debate,neutral,0.0,0.232634,0.024757,0.274036,0.466246,0.162338,0,0,0
+56,2017-07-12,CBC,Manitoba MMIWG families want national inquiry commissioners replaced,neutral,0.0,0.346292,0.032762,0.117056,0.266701,0.153218,0,0,0
+57,2017-07-12,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+58,2017-07-12,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+59,2017-07-12,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+60,2017-07-12,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+61,2017-07-12,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+62,2017-07-12,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+63,2017-07-12,CBC,Justin Trudeau will attend Calgary Stampede after initially bucking event,negative,-0.406753,0.360044,0.018504,0.192251,0.263458,0.086917,0,0,1
+64,2017-07-12,CBC,Former U.S. special forces soldier calls Justin Trudeau an Omar Khadr 'groupie',neutral,0.0,0.352859,0.154207,0.217304,0.328986,0.036987,0,0,1
+65,2017-07-12,CBC,Poloz may tap the interest-rate brakes as a promise and a warning: Don Pittis,negative,-0.757098,0.084747,0.379089,0.056584,0.115494,0.012166,0,0,0
+66,2017-07-12,CBC,"Majority of Canadians oppose Omar Khadr settlement, poll suggests",neutral,0.0,0.117541,0.024169,0.095783,0.282128,0.030708,0,0,0
+67,2017-07-12,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
+68,2017-07-12,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
+69,2017-07-12,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
+70,2017-07-12,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
+71,2017-07-12,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
+72,2017-07-13,RT,‘Putin wanted Hillary Clinton to win the election’ – Trump                                                                    ,neutral,0.0,0.270869,0.082043,0.179606,0.139299,0.256665,1,1,0
+73,2017-07-13,RT,Berlin to boost aviation safety amid fears hackers can hijack warplanes                                                                    ,neutral,0.0,0.011869,0.755602,0.020501,0.034013,0.021755,0,0,0
+74,2017-07-13,RT,‘Humanity can’t continue to lose out to politics’ – UN relief chief makes plea to save Yemen                                                                    ,negative,-0.962583,0.613501,0.071162,0.218139,0.293269,0.010185,0,0,0
+75,2017-07-13,RT,US senators aim to impose sanctions on financial entities dealing with North Korea                                                                    ,negative,-0.573193,0.112259,0.146528,0.091876,0.118333,0.084398,0,0,0
+76,2017-07-13,RT,Emails to Trump Jr. on Russian lawyer meeting are full of lies – Agalarov’s attorney                                                                    ,positive,0.439946,0.121639,0.339342,0.184405,0.068986,0.089517,0,0,0
+77,2017-07-13,WT,Times’ Legislative Activity Index shows good pace for unified Congress,positive,0.511017,0.086094,0.051677,0.029248,0.064249,0.646233,0,0,0
+78,2017-07-13,WT,Freedom Partners ramps up campaign against border tax,negative,-0.311455,0.168101,0.308238,0.081564,0.315799,0.104134,0,0,0
+79,2017-07-13,WT,Senate Judiciary chair plans to call former Trump campaign manager Manafort to testify,neutral,0.0,0.292049,0.039106,0.076854,0.565729,0.004063,0,1,0
+80,2017-07-13,WT,"Obamacare repeal, replace plan stumbles in Senate",negative,-0.718434,0.250285,0.076911,0.236719,0.145273,0.041843,0,0,0
+81,2017-07-13,WT,"Democrats reject Trump judge, then say they weren’t included in deliberations",neutral,0.0,0.617269,0.04556,0.095346,0.220868,0.002297,0,1,0
+82,2017-07-13,WT,"In FBI confirmation hearing, Wray denies Russia investigation is a ‘witch hunt’ of Trump",neutral,0.0,0.256766,0.029172,0.339664,0.493034,0.007353,0,1,0
+83,2017-07-13,WT,Christopher Wray wins over Al Franken: ‘You’ve had a good hearing today’,neutral,0.0,0.042792,0.048304,0.037076,0.015742,0.80933,0,0,0
+84,2017-07-13,WT,House committee votes to reopen door for horse slaughter facilities to operate in U.S.,neutral,0.0,0.064947,0.116151,0.369222,0.477204,0.110445,0,0,0
+85,2017-07-13,WT,Warren takes early salvo from GOP hopeful: ‘A real Indian can defeat a fake Indian’,negative,-0.718139,0.748489,0.150538,0.160964,0.105759,0.00375,0,0,0
+86,2017-07-13,WT,Expanding the press corps: White House to stage talk radio marathon,neutral,0.0,0.102822,0.197631,0.145099,0.255513,0.249248,0,0,0
+87,2017-07-13,WT,Bermuda firm denies funneling Russian cash to anti-fracking groups,negative,-0.477504,0.525964,0.147223,0.242257,0.289853,0.023415,0,0,0
+88,2017-07-13,WT,"Brad Sherman, California Democrat, launches long-shot bid to impeach Trump",neutral,0.0,0.38831,0.075367,0.070331,0.204422,0.099437,0,1,0
+89,2017-07-13,WT,A PR lesson for Trump from some angry Montana firefighters,positive,0.858726,0.028954,0.047798,0.935845,0.037097,0.014905,0,1,0
+90,2017-07-13,WT,Former DNC head Donna Brazile to release book on 2016 election hacks,neutral,0.0,0.399661,0.233457,0.381671,0.120674,0.048086,0,0,0
+91,2017-07-13,WT,Bernie Sanders keeping 2020 presidential bid on the table,neutral,0.0,0.063565,0.043173,0.072426,0.511236,0.144659,0,0,0
+92,2017-07-13,CBC,Former astronaut Julie Payette to be Canada's next governor general,neutral,0.0,0.263381,0.122293,0.109868,0.193667,0.190061,0,0,0
+93,2017-07-13,CBC,3 reasons the interest rate hike is good for the Trudeau Liberals,positive,0.747059,0.157146,0.016846,0.074209,0.308843,0.469893,0,0,1
+94,2017-07-13,CBC,Omar Khadr fights attempt by soldier's widow to freeze his assets,negative,-0.413576,0.592513,0.242899,0.154527,0.127652,0.00573,0,0,0
+95,2017-07-13,CBC,"Watch Power & Politics for July 12, 2017",positive,0.574348,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+96,2017-07-13,CBC,What 3 legal minds think about the Omar Khadr settlement,neutral,0.0,0.140624,0.168885,0.161364,0.062307,0.256602,0,0,0
+97,2017-07-13,CBC,Bank of Canada raises interest rate for 1st time in 7 years to 0.75%,negative,-0.526206,0.249858,0.050646,0.058354,0.089373,0.275828,0,0,0
+98,2017-07-13,CBC,Canadian military exchange pilots flew in combat: documents,neutral,0.0,0.121176,0.133597,0.13757,0.293365,0.033898,0,0,0
+99,2017-07-13,CBC,Don't drain the swamp: report says wetlands help avert flood damage,negative,-0.776631,0.28728,0.323545,0.221157,0.065788,0.005999,0,0,0
+100,2017-07-13,CBC,"Manitoba families want national MMIWG inquiry commissioners replaced, regional inquiry created",neutral,0.0,0.183581,0.029994,0.096102,0.16095,0.273637,0,0,0
+101,2017-07-13,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+102,2017-07-13,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
+103,2017-07-13,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+104,2017-07-13,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+105,2017-07-13,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+106,2017-07-13,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+107,2017-07-13,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+108,2017-07-14,RT,‘Punish Russians for having RT?’ Fox News host slams US senator over ‘Russian propaganda’ (VIDEO)                                                                    ,negative,-0.478573,0.500531,0.235228,0.062239,0.421601,0.022424,0,0,0
+109,2017-07-14,RT,Trump reveals what he’ll ask Putin next time they meet                                                                    ,neutral,0.0,0.464146,0.207725,0.071891,0.048334,0.228671,1,1,0
+110,2017-07-14,RT,Turkey ready to splash out $2.5bn for Russia’s S-400 air defense system – report                                                                    ,negative,-0.474478,0.173518,0.112911,0.066048,0.082142,0.086593,0,0,0
+111,2017-07-14,RT,2 Israeli police officers confirmed dead following Temple Mount shooting                                                                    ,neutral,0.0,0.204528,0.139833,0.429332,0.376967,0.031592,0,0,0
+112,2017-07-14,RT,Macron: Eliminating terrorist threat now more important than ousting Assad                                                                    ,negative,-0.806734,0.100381,0.754333,0.208456,0.154279,0.001864,0,0,0
+113,2017-07-14,WT,Senate immediately loses 2 Republican votes on revised Obamacare repeal bill,negative,-0.817753,0.246567,0.043073,0.328504,0.585769,0.012762,0,0,0
+114,2017-07-14,WT,Trump says Obama officials let Russia lawyer enter U.S.,neutral,0.0,0.21128,0.110486,0.191934,0.385274,0.084259,0,1,0
+115,2017-07-14,WT,Operative who commissioned anti-Trump dossier to testify next week before Congress,negative,-0.366967,0.446834,0.147178,0.19552,0.274041,0.123579,0,1,0
+116,2017-07-14,WT,"Broadcasters obsess over Trump Jr., ignore Hillary Clinton’s Russia-uranium scandal",negative,-0.425929,0.108671,0.160487,0.424351,0.44827,0.026893,0,0,0
+117,2017-07-14,WT,U.S. journalists fuming at Trump for calling on Chinese reporter,neutral,0.0,0.169608,0.018271,0.51811,0.278662,0.016834,0,1,0
+118,2017-07-14,WT,Soaring stock market a symbol of the Trump age,positive,0.722019,0.303003,0.105723,0.146692,0.039436,0.099027,0,1,0
+119,2017-07-14,WT,"Bill Flores, Texas Republican, says Trump should remove kids from White House",neutral,0.0,0.208064,0.077864,0.222277,0.619639,0.041054,0,1,0
+120,2017-07-14,WT,"Mothers, children rally on Capitol Hill for cleaner air  ",neutral,0.0,0.096492,0.206714,0.180715,0.423715,0.074161,0,0,0
+121,2017-07-14,WT,Trump campaign sued for privacy invasion by victims of DNC hack,negative,-0.447785,0.343102,0.136864,0.143541,0.566767,0.023766,0,1,0
+122,2017-07-14,WT,Trump says he wants ‘comprehensive immigration plan’ but country isn’t ready,neutral,0.0,0.23251,0.147977,0.136244,0.058122,0.276103,0,1,0
+123,2017-07-14,WT,Trump says border needs 700-900 miles of wall,positive,0.57585,0.309777,0.480521,0.121219,0.15639,0.081983,0,1,0
+124,2017-07-14,WT,Trump ‘deeply saddened’ about death of Chinese dissident Liu,negative,-0.681501,0.778817,0.080831,0.098094,0.091346,0.058465,0,1,0
+125,2017-07-14,WT,Baby Charlie Gard’s plight a test of compassion for us all,positive,0.868047,0.107721,0.089259,0.046891,0.238561,0.450691,0,0,0
+126,2017-07-14,WT,Russians have their say in FCC’s public comment process on net neutrality,neutral,0.0,0.216969,0.520628,0.197867,0.173495,0.075479,0,0,0
+127,2017-07-14,WT,"With Scalise still on the mend, lawmakers break promises of toning down partisan rhetoric",positive,0.898937,0.613601,0.121673,0.242783,0.115222,0.056985,0,0,0
+128,2017-07-14,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+129,2017-07-14,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+130,2017-07-14,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
+131,2017-07-14,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
+132,2017-07-14,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
+133,2017-07-14,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
+134,2017-07-14,CBC,"Jagmeet Singh tops NDP leadership endorsements, but front-runner status yet to be confirmed",neutral,0.0,0.019663,0.158677,0.023705,0.035009,0.061,0,0,0
+135,2017-07-14,CBC,Judge rejects request to freeze Omar Khadr's assets,neutral,0.0,0.59823,0.080509,0.201414,0.09211,0.006336,0,0,0
+136,2017-07-14,CBC,Trudeau looks to court U.S. governors as NAFTA talks loom,neutral,0.0,0.1444,0.139614,0.172943,0.189868,0.08826,0,0,1
+137,2017-07-14,CBC,Wynne heads to U.S. at 'critical moment' in trade relationship,neutral,0.0,0.430716,0.052141,0.072483,0.027459,0.390924,0,0,0
+138,2017-07-14,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+139,2017-07-14,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
+140,2017-07-14,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+141,2017-07-14,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+142,2017-07-14,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+143,2017-07-14,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+144,2017-07-15,RT,"‘She bled to death, nobody paid attention’: ISIS wives share chilling stories of life in ‘caliphate’                                                                        ",neutral,0.0,0.142958,0.088965,0.095943,0.436215,0.33741,0,0,0
+145,2017-07-15,RT,‘Mistreatment of anybody is never justified’: HRW to RT on abuse of suspected ISIS fighters in Iraq                                                                     ,negative,-0.868277,0.17188,0.200708,0.371097,0.557458,0.003115,0,0,0
+146,2017-07-15,RT,9/11 families may add UAE to lawsuit against Saudis over role in terrorist attacks                                                                    ,negative,-0.732749,0.150751,0.429006,0.1379,0.129239,0.007392,0,0,0
+147,2017-07-15,RT,"‘Discrimination, harassment, bullying’: Canada’s spy agents file C$35mn lawsuit against bosses                                                                    ",negative,-0.796679,0.235627,0.104744,0.315661,0.066755,0.007742,0,0,0
+148,2017-07-15,RT,‘Mad Max’ Jihad: Seized ISIS combat vehicles go on exhibit in Mosul (PHOTOS)                                                                     ,negative,-0.47096,0.185477,0.092414,0.442337,0.033685,0.062334,0,0,0
+149,2017-07-15,WT,Sessions says he’ll appeal travel ban case back to Supreme Court,neutral,0.0,0.280815,0.074712,0.273285,0.37091,0.068454,0,0,0
+150,2017-07-15,WT,Sen. Joe Donnelly selling stock after AP ties company to Mexican labor,neutral,0.0,0.268382,0.070145,0.075763,0.12989,0.01623,0,0,0
+151,2017-07-15,WT,Vulnerable Senate Democrats show strong fundraising in second quarter,neutral,0.0,0.481593,0.052376,0.176614,0.296657,0.075329,0,0,0
+152,2017-07-15,WT,"Pelosi, House Dems will try to force Republicans to take stance on Trump-Russia ties",negative,-0.480609,0.213272,0.22711,0.284556,0.498388,0.016475,0,1,0
+153,2017-07-15,WT,Saudi king congratulates Trump on defeat of the Islamic State in Mosul,neutral,0.0,0.41357,0.312275,0.084702,0.140463,0.138621,0,1,0
+154,2017-07-15,WT,"Trump pushes Senate on health care bill: ‘I will be at my desk, pen in hand!’",positive,0.663499,0.180779,0.042311,0.229124,0.206227,0.367204,0,1,0
+155,2017-07-15,WT,Former Soviet intel officer present at Donald Trump Jr. meeting with Russian lawyer: Report,neutral,0.0,0.047654,0.217251,0.088149,0.096044,0.167247,0,0,0
+156,2017-07-15,WT,Trump supporters split on whether to repeal Obamacare: Kaiser poll,negative,-0.430275,0.083668,0.053495,0.091719,0.338901,0.168933,0,1,0
+157,2017-07-15,WT,Judge in Hawaii carves new hole in Trump travel ban,neutral,0.0,0.312261,0.052161,0.25208,0.390586,0.137406,0,1,0
+158,2017-07-15,WT,"Trump, first lady review troops at Bastille Day parade in Paris",neutral,0.0,0.122797,0.06206,0.062992,0.167657,0.575939,0,1,0
+159,2017-07-15,WT,Elizabeth Warren ties Kid Rock to Trump in fundraising pitch,positive,0.925745,0.090313,0.086503,0.129069,0.277623,0.383618,0,1,0
+160,2017-07-15,WT,"Peter Smith, GOP operative who sought Clinton emails, took his own life in Minnesota: Report",negative,-0.570646,0.268721,0.070028,0.17289,0.304463,0.146369,0,0,0
+161,2017-07-15,WT,Rep. Sean Duffy doesn’t have an issue with Donald Trump Jr.’s Russia meeting,neutral,0.0,0.21237,0.01158,0.214693,0.02892,0.027947,0,0,0
+162,2017-07-15,WT,Senate immediately loses 2 Republican votes on revised Obamacare repeal bill,negative,-0.817753,0.246567,0.043073,0.328504,0.585769,0.012762,0,0,0
+163,2017-07-15,WT,"With Scalise still on the mend, lawmakers break promises of toning down partisan rhetoric",positive,0.898937,0.613601,0.121673,0.242783,0.115222,0.056985,0,0,0
+164,2017-07-15,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+165,2017-07-15,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+166,2017-07-15,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+167,2017-07-15,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+168,2017-07-15,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+169,2017-07-15,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+170,2017-07-15,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+171,2017-07-15,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+172,2017-07-15,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
+173,2017-07-15,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
+174,2017-07-15,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+175,2017-07-15,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+176,2017-07-15,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
+177,2017-07-15,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
+178,2017-07-15,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
+179,2017-07-15,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
+180,2017-07-16,RT,"Turkey commemorates ‘epic victory’ over coup attempt with massive rally (PHOTOS, VIDEOS)                                                                      ",neutral,0.0,0.142137,0.227823,0.004519,0.10479,0.579922,0,0,0
+181,2017-07-16,RT,Thousands forced to evacuate as wildfires close in on city in Canada (PHOTOS)                                                                    ,negative,-0.690641,0.509971,0.198342,0.162981,0.028,0.200419,0,0,0
+182,2017-07-16,RT,"Death defying stunts & a heart in the sky at last rehearsal ahead of MAKS-2017 (PHOTOS, VIDEO)                                                                    ",negative,-0.832739,0.288927,0.052787,0.016937,0.0218,0.630382,0,0,0
+183,2017-07-16,RT,"Rare snowstorm batters Chilean capital, leaves one dead & 337k homes without power (PHOTOS)                                                                    ",negative,-0.84801,0.232632,0.057486,0.146592,0.035311,0.367886,0,0,0
+184,2017-07-16,RT,"Going underwater: Moscow city center submerged after torrential rain (VIDEO, PHOTOS)                                                                    ",negative,-0.424238,0.272117,0.15089,0.081239,0.021456,0.381965,0,0,0
+185,2017-07-16,WT,"McConnell delays health care vote, citing McCain’s surgery",neutral,0.0,0.467223,0.047198,0.047232,0.236367,0.287643,0,0,0
+186,2017-07-16,WT,Guest list for Donald Trump Jr.’s meeting with Russian attorney swells to eight: Reports,neutral,0.0,0.035325,0.151352,0.031007,0.033311,0.099802,0,0,0
+187,2017-07-16,WT,‘Free Press Act’ would require White House to hold regular televised press briefings,neutral,0.0,0.172236,0.172167,0.058161,0.181305,0.042576,0,0,0
+188,2017-07-16,WT,Trump says Obamacare repeal bill is ‘so close’ to passage,negative,-0.294567,0.350366,0.08811,0.163876,0.197263,0.093059,0,1,0
+189,2017-07-16,WT,Sessions says he’ll appeal travel ban case back to Supreme Court,neutral,0.0,0.280815,0.074712,0.273285,0.37091,0.068454,0,0,0
+190,2017-07-16,WT,Sen. Joe Donnelly selling stock after AP ties company to Mexican labor,neutral,0.0,0.268382,0.070145,0.075763,0.12989,0.01623,0,0,0
+191,2017-07-16,WT,Vulnerable Senate Democrats show strong fundraising in second quarter,neutral,0.0,0.481593,0.052376,0.176614,0.296657,0.075329,0,0,0
+192,2017-07-16,WT,"Pelosi, House Dems will try to force Republicans to take stance on Trump-Russia ties",negative,-0.480609,0.213272,0.22711,0.284556,0.498388,0.016475,0,1,0
+193,2017-07-16,WT,Saudi king congratulates Trump on defeat of the Islamic State in Mosul,neutral,0.0,0.41357,0.312275,0.084702,0.140463,0.138621,0,1,0
+194,2017-07-16,WT,"Trump pushes Senate on health care bill: ‘I will be at my desk, pen in hand!’",positive,0.663499,0.180779,0.042311,0.229124,0.206227,0.367204,0,1,0
+195,2017-07-16,WT,Former Soviet intel officer present at Donald Trump Jr. meeting with Russian lawyer: Report,neutral,0.0,0.047654,0.217251,0.088149,0.096044,0.167247,0,0,0
+196,2017-07-16,WT,Trump supporters split on whether to repeal Obamacare: Kaiser poll,negative,-0.430275,0.083668,0.053495,0.091719,0.338901,0.168933,0,1,0
+197,2017-07-16,WT,Judge in Hawaii carves new hole in Trump travel ban,neutral,0.0,0.312261,0.052161,0.25208,0.390586,0.137406,0,1,0
+198,2017-07-16,WT,"Trump, first lady review troops at Bastille Day parade in Paris",neutral,0.0,0.122797,0.06206,0.062992,0.167657,0.575939,0,1,0
+199,2017-07-16,WT,Elizabeth Warren ties Kid Rock to Trump in fundraising pitch,positive,0.925745,0.090313,0.086503,0.129069,0.277623,0.383618,0,1,0
+200,2017-07-16,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+201,2017-07-16,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+202,2017-07-16,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+203,2017-07-16,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+204,2017-07-16,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+205,2017-07-16,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+206,2017-07-16,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+207,2017-07-16,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+208,2017-07-16,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+209,2017-07-16,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+210,2017-07-16,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+211,2017-07-16,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+212,2017-07-16,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
+213,2017-07-16,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
+214,2017-07-16,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+215,2017-07-16,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+216,2017-07-17,RT,Not ‘Russian hackers’? WaPo report accuses UAE of orchestrating Qatar media hack                                                                    ,negative,-0.704247,0.113634,0.035071,0.705279,0.338112,0.006502,0,0,0
+217,2017-07-17,RT,"Iranian FM says ISIS, Al-Nusra, Al-Qaeda get their money & ideology from US allies                                                                    ",negative,-0.725543,0.196177,0.152367,0.252389,0.214982,0.081937,0,0,0
+218,2017-07-17,RT,Aussie woman killed by police in US after dialing 911 to report disturbance                                                                    ,negative,-0.677751,0.446542,0.134136,0.276741,0.340063,0.005995,0,0,0
+219,2017-07-17,RT,"‘If Don Jr’s Russian meeting was nefarious, why did Secret Service allow it?’ – Trump lawyer                                                                    ",negative,-0.401884,0.043364,0.215402,0.151755,0.018418,0.204678,0,0,0
+220,2017-07-17,RT,‘American power here goes to door of Frau Merkel’s bedroom’: RT docu probes US-German ties                                                                    ,positive,0.864833,0.421422,0.156663,0.050507,0.39226,0.082499,0,0,0
+221,2017-07-17,WT,Trump’s travel ban to head back to Supreme Court,neutral,0.0,0.227124,0.078446,0.255004,0.355029,0.099128,0,1,0
+222,2017-07-17,WT,Sen. Rand Paul accuses Republicans of ‘going back on their word to repeal Obamacare’,negative,-0.815233,0.233458,0.015015,0.532483,0.349059,0.045681,0,0,0
+223,2017-07-17,WT,Trump Jr. emails take Russia investigation to new level,neutral,0.0,0.050591,0.157699,0.104948,0.082151,0.102148,0,0,0
+224,2017-07-17,WT,"Donald Trump Jr. meeting with Russian lawyer not ‘against the law,’ president’s attorney says",neutral,0.0,0.052853,0.313944,0.113994,0.18413,0.138982,0,0,0
+225,2017-07-17,WT,Trump officials say budget deficit to rise to $702 billion in 2017,negative,-0.774731,0.316044,0.156939,0.142395,0.316058,0.198082,0,1,0
+226,2017-07-17,WT,Trump blasts poll showing record low approval rating,neutral,0.0,0.297388,0.050544,0.106416,0.461155,0.112002,0,1,0
+227,2017-07-17,WT,Trump effect: Confidence in personal finances hits a four-year high,positive,0.755345,0.181166,0.064809,0.03265,0.015593,0.522719,0,1,0
+228,2017-07-17,WT,Republican campaign operatives aim to make Elizabeth Warren as toxic as Nancy Pelosi,negative,-0.868212,0.152268,0.057843,0.042811,0.553211,0.078791,0,0,0
+229,2017-07-17,WT,Eric Conn gets 12 years for Social Security fraud scheme,negative,-0.356093,0.241317,0.185135,0.271095,0.098551,0.233467,0,0,0
+230,2017-07-17,WT,"If ‘dodgy dossier’ accusation true, Trump Jr. would have no reason to meet with Russian lawyer",negative,-0.320788,0.042809,0.267976,0.03729,0.05084,0.318729,0,0,0
+231,2017-07-17,WT,"With John McCain sidelined by surgery, Senate has no timetable for Obamacare repeal vote",negative,-0.865543,0.238805,0.142775,0.063727,0.585595,0.125046,0,0,0
+232,2017-07-17,WT,"ABC, NBC hit with backlash after pinning ‘hate group’ label on Alliance Defending Freedom",neutral,0.0,0.241053,0.064004,0.704653,0.194559,0.009007,0,0,0
+233,2017-07-17,WT,"McConnell delays health care vote, citing McCain’s surgery",neutral,0.0,0.467223,0.047198,0.047232,0.236367,0.287643,0,0,0
+234,2017-07-17,WT,Guest list for Donald Trump Jr.’s meeting with Russian attorney swells to eight: Reports,neutral,0.0,0.035325,0.151352,0.031007,0.033311,0.099802,0,0,0
+235,2017-07-17,WT,‘Free Press Act’ would require White House to hold regular televised press briefings,neutral,0.0,0.172236,0.172167,0.058161,0.181305,0.042576,0,0,0
+236,2017-07-17,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
+237,2017-07-17,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
+238,2017-07-17,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
+239,2017-07-17,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
+240,2017-07-17,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+241,2017-07-17,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+242,2017-07-17,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+243,2017-07-17,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+244,2017-07-17,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+245,2017-07-17,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+246,2017-07-17,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+247,2017-07-17,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+248,2017-07-17,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+249,2017-07-17,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+250,2017-07-17,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+251,2017-07-17,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+252,2017-07-18,RT,Afghanistan civilian deaths hit record highs as US airstrikes reach 2012 levels                                                                    ,negative,-0.587368,0.406136,0.186092,0.110872,0.17867,0.008493,0,0,0
+253,2017-07-18,RT,"Trump says Iran sticking to nuclear deal terms, but undermining its spirit                                                                    ",neutral,0.0,0.584802,0.28208,0.227873,0.031239,0.044407,0,1,0
+254,2017-07-18,RT,Egypt revokes visa-free travel to Qatar nationals as Turkey sends more troops                                                                    ,neutral,0.0,0.242488,0.099641,0.057916,0.160722,0.085324,0,0,0
+255,2017-07-18,RT,China’s advanced destroyer to take part in joint drills with Russia in Baltic Sea                                                                    ,neutral,0.0,0.129417,0.047727,0.117479,0.101572,0.125603,0,0,0
+256,2017-07-18,RT,It takes two: Senate plans to separate Obamacare repeal bill from replacement                                                                    ,negative,-0.747832,0.332412,0.068866,0.0795,0.094552,0.004442,0,0,0
+257,2017-07-18,WT,"House budget blueprint boosts military, cuts benefits",positive,0.855893,0.096086,0.225524,0.095023,0.323118,0.392316,0,0,0
+258,2017-07-18,WT,"Trump to McCain: Get well soon, we need your vote",positive,0.726865,0.210946,0.07805,0.162475,0.242379,0.257474,0,1,0
+259,2017-07-18,WT,Trump insists campaign meet with Russian lawyer not unusual: ‘That’s politics!’,neutral,0.0,0.286612,0.16067,0.160436,0.490824,0.048609,0,1,0
+260,2017-07-18,WT,Watchdog group to release Mar-a-Lago visitor logs,neutral,0.0,0.22925,0.080811,0.062421,0.058048,0.105307,0,0,0
+261,2017-07-18,WT,Trump’s voter commission says it doesn’t need to make privacy impact assessment,neutral,0.0,0.552447,0.131692,0.107215,0.16496,0.123713,0,1,0
+262,2017-07-18,WT,GOP health care bill dies in Senate after more Republicans announce opposition,negative,-0.381663,0.554071,0.031698,0.185728,0.372969,0.046195,0,0,0
+263,2017-07-18,WT,"DHS grants small number of guest-worker visas, tests Trump’s ‘America first’ promise",neutral,0.0,0.133313,0.055172,0.238465,0.101291,0.057482,0,1,0
+264,2017-07-18,WT,Sen. Cotton: Army modernization crucial for challenging Russia,neutral,0.0,0.179671,0.107587,0.105658,0.164562,0.08787,0,0,0
+265,2017-07-18,WT,White House: Trump must make America great again before he can make products in America ,positive,0.742125,0.151815,0.088439,0.032872,0.212334,0.422838,0,1,0
+266,2017-07-18,WT,Snopes examines lies and misleading claims made by media against Trump,negative,-0.454578,0.285666,0.02105,0.246168,0.559115,0.081883,0,1,0
+267,2017-07-18,WT,Midterms fire up early: Four Senate races to watch,neutral,0.0,0.084216,0.357157,0.117737,0.57345,0.079761,0,0,0
+268,2017-07-18,WT,"Trump’s approval ratings break traditional ties to economy, policy vs. personality trend",positive,0.732442,0.507824,0.176505,0.142845,0.145499,0.036532,0,1,0
+269,2017-07-18,WT,American politics is not defined by class struggle,negative,-0.410117,0.751865,0.051261,0.059786,0.306645,0.003136,0,0,0
+270,2017-07-18,WT,Liberal groups vow to send health care obstruction efforts into ‘hyperdrive’,neutral,0.0,0.074078,0.024912,0.130013,0.166974,0.574055,0,0,0
+271,2017-07-18,WT,Russia election meddling controversy swinging past voters in swing states,neutral,0.0,0.59271,0.156393,0.101302,0.160675,0.05551,0,0,0
+272,2017-07-18,CBC,Trade talks with Trump and the race for new pot rules top agenda for premiers' meeting,neutral,0.0,0.161414,0.066657,0.097849,0.107877,0.567801,0,1,0
+273,2017-07-18,CBC,"Graves of 45,000 veterans in disrepair due to funding shortfall: audit",negative,-0.6872,0.297842,0.151168,0.066906,0.086791,0.1402,0,0,0
+274,2017-07-18,CBC,Canada funds Europe-based missile defence program but won't join one at home,negative,-0.64914,0.090154,0.07448,0.02544,0.358254,0.037264,0,0,0
+275,2017-07-18,CBC,"Federal government looks to shore up seniors benefits program to prevent fraud, mistakes",negative,-0.586003,0.305185,0.228524,0.265485,0.070872,0.036313,0,0,0
+276,2017-07-18,CBC,'Missed opportunity': B.C.'s John Horgan will skip premiers meeting in Alberta,negative,-0.895449,0.089726,0.018607,0.045242,0.024617,0.445381,0,0,0
+277,2017-07-18,CBC,Renaming Ryerson University is a poor way to deal with Canada's ugly past,negative,-0.798674,0.577856,0.220427,0.148331,0.293383,0.004355,0,0,0
+278,2017-07-18,CBC,5 things to watch as U.S. reveals its NAFTA objectives,neutral,0.0,0.303352,0.284137,0.038304,0.032106,0.416673,0,0,0
+279,2017-07-18,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
+280,2017-07-18,CBC,Military veterans still struggle to find meaningful private sector work,negative,-0.792157,0.528994,0.41437,0.069656,0.17646,0.022746,0,0,0
+281,2017-07-18,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
+282,2017-07-18,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
+283,2017-07-18,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
+284,2017-07-18,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+285,2017-07-18,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+286,2017-07-18,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+287,2017-07-18,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+288,2017-07-19,RT,"Trump confirms G20 dinner chat with Putin, slams ‘sick’ MSM reports of ‘secret talks’                                                                    ",neutral,0.0,0.163269,0.139345,0.18816,0.135678,0.013168,1,1,0
+289,2017-07-19,RT,‘I won’t be f***ed’: French armed forces chief quits after clash with Macron over budget cuts                                                                    ,negative,-0.702944,0.326337,0.312499,0.496392,0.081033,0.033102,0,0,0
+290,2017-07-19,RT,‘A civilization on Mars thousands of years ago’: Congressman stuns NASA scientists                                                                    ,positive,0.593209,0.222666,0.079806,0.039084,0.074304,0.389353,0,0,0
+291,2017-07-19,RT,New-design MiG-35 makes air show debut at MAKS 2017 (VIDEO)                                                                    ,neutral,0.0,0.023629,0.07841,0.045317,0.084011,0.692791,0,0,0
+292,2017-07-19,RT,Russian lawyer Veselnitskaya says Magnitsky Act lobbyist Browder behind Trump Jr. scandal                                                                        ,neutral,0.0,0.051563,0.325142,0.253219,0.531724,0.054839,0,0,0
+293,2017-07-19,WT,"White House slams ‘absurd’ media reports of second Trump, Putin meeting",neutral,0.0,0.295934,0.120951,0.211878,0.409605,0.111062,1,1,0
+294,2017-07-19,WT,Charles E. Grassley postpones anti-Donald Trump dossier hearing,neutral,0.0,0.321761,0.090421,0.159766,0.257246,0.104221,0,1,0
+295,2017-07-19,WT,House panel OKs $1.6 billion as down payment for Trump wall construction,neutral,0.0,0.392588,0.146582,0.040632,0.101817,0.179693,0,1,0
+296,2017-07-19,WT,"Pence pressured by CBC, Dems to remove Kris Kobach from election integrity commission",neutral,0.0,0.333444,0.393018,0.191254,0.108772,0.009282,0,0,0
+297,2017-07-19,WT,Trump to tap former Utah governor  Jon Huntsman to be ambassador to Russia,neutral,0.0,0.265552,0.106266,0.129227,0.273011,0.199226,0,1,0
+298,2017-07-19,WT,"On Obamacare Plan B, Republican opponents say insurance markets can’t count on hope",negative,-0.603655,0.174802,0.126333,0.323032,0.133226,0.03548,0,0,0
+299,2017-07-19,WT,"House Republican budget proposal paves way for tax reform, another intraparty battle",negative,-0.753357,0.406566,0.128071,0.208311,0.379918,0.050066,0,0,0
+300,2017-07-19,WT,"Sea Change Foundation, Soros support many of same environmental groups ",neutral,0.0,0.132825,0.029604,0.035616,0.096459,0.413284,0,0,0
+301,2017-07-19,WT,Fraudulent voting? Trump’s new Advisory Commission on Election Integrity debuts Wednesday,negative,-0.820612,0.184786,0.139659,0.172092,0.189933,0.320032,0,1,0
+302,2017-07-19,WT,Macron climate pitch to Trump earning skepticism,neutral,0.0,0.119117,0.278393,0.10292,0.192984,0.142154,0,1,0
+303,2017-07-19,WT,White House backs FCC plan to reverse Obama-era ‘net neutrality’ rules,neutral,0.0,0.360573,0.171423,0.07278,0.154607,0.162956,0,0,0
+304,2017-07-19,WT,Blame dishonest Democrats who created Obamacare and lied about it ,negative,-0.938077,0.376189,0.046563,0.490072,0.27775,0.01834,0,0,0
+305,2017-07-19,WT,America hates Hillary — and digs Trump,neutral,0.0,0.310747,0.065021,0.348203,0.368918,0.039288,0,1,0
+306,2017-07-19,WT,California passes cap and trade extension with GOP support,neutral,0.0,0.260435,0.051206,0.231227,0.184829,0.156346,0,0,0
+307,2017-07-19,WT,Manchin’s vulnerability sets up West Virginia’s first competitive GOP primary in modern history,positive,0.447412,0.210646,0.097937,0.151654,0.086399,0.15958,0,0,0
+308,2017-07-19,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
+309,2017-07-19,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
+310,2017-07-19,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+311,2017-07-19,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
+312,2017-07-19,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
+313,2017-07-19,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
+314,2017-07-19,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
+315,2017-07-19,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
+316,2017-07-19,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
+317,2017-07-19,CBC,"After Trump's tough talk, NAFTA proposals look more like light reno than demolition",negative,-0.494125,0.658233,0.241549,0.097871,0.012548,0.05769,0,1,0
+318,2017-07-19,CBC,Which premiers are secure and which ones are worried at premiers conference,neutral,0.0,0.210911,0.582292,0.094196,0.084756,0.040597,0,0,0
+319,2017-07-19,CBC,"Trump administration reveals goals ahead of NAFTA talks with Canada, Mexico",neutral,0.0,0.230649,0.150127,0.020018,0.020521,0.477094,0,1,0
+320,2017-07-19,CBC,Indigenous leaders boycott 'segregated' premiers meeting in Edmonton,negative,-0.488461,0.136097,0.051575,0.169073,0.4075,0.188565,0,0,0
+321,2017-07-19,CBC,B.C. government readies for historic transition amid wildfire crisis,negative,-0.643975,0.208818,0.372809,0.181112,0.138248,0.069953,0,0,0
+322,2017-07-19,CBC,'See you there!' Trudeau to march in Halifax Pride parade Saturday,positive,0.434355,0.058989,0.024034,0.065403,0.117006,0.65451,0,0,1
+323,2017-07-19,CBC,Australian senator resigns after learning she's also Canadian,neutral,0.0,0.127931,0.129712,0.224233,0.252067,0.264657,0,0,0
+324,2017-07-20,RT,Trump to end lavish CIA support for ‘moderate’ anti-Assad forces in Syria – reports                                                                    ,neutral,0.0,0.42641,0.123981,0.200277,0.393306,0.010359,0,1,0
+325,2017-07-20,RT,Iraq to buy ‘large batch’ of advanced Russian T-90 tanks – Kremlin                                                                     ,positive,0.730448,0.082644,0.194407,0.054655,0.06623,0.068197,0,0,0
+326,2017-07-20,RT,‘Threat to rule of law’: EU may strip Poland of voting rights over judicial reforms                                                                    ,neutral,0.0,0.140733,0.464259,0.150557,0.415138,0.023603,0,0,0
+327,2017-07-20,RT,Tobacco industry hampers global strategy to stop smoking epidemic – WHO                                                                    ,negative,-0.690492,0.290146,0.289809,0.215808,0.257737,0.033624,0,0,0
+328,2017-07-20,RT,Italy fumes as The Sun brands Naples one of world’s 10 most dangerous cities                                                                    ,negative,-0.532369,0.173374,0.115168,0.620212,0.038473,0.167648,0,0,0
+329,2017-07-20,WT,John McCain diagnosed with brain cancer,negative,-0.743345,0.700574,0.184545,0.058367,0.148083,0.004968,0,0,0
+330,2017-07-20,WT,"Trump Jr., Manafort, Kushner to testify before lawmakers next week",negative,-0.355524,0.02682,0.115682,0.041353,0.096366,0.126898,0,0,0
+331,2017-07-20,WT,"Trump: Sessions should have told me about recusal, ‘I would have picked somebody else’",negative,-0.502006,0.292399,0.13593,0.362904,0.165145,0.059541,0,1,0
+332,2017-07-20,CBC,"Andrew Scheer to name Lisa Raitt deputy leader, announce 'gender diverse' House leadership team Thursday",neutral,0.0,0.050262,0.083626,0.08048,0.080787,0.156196,0,0,0
+333,2017-07-20,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.236808,0.073528,0.102368,0.103356,0.185719,0,1,0
+334,2017-07-20,CBC,"Watch Power & Politics for July 19, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+335,2017-07-20,CBC,Health trouble brought on by mould exposure ends sailor's career,neutral,0.0,0.180829,0.139996,0.181365,0.086777,0.425415,0,0,0
+336,2017-07-20,CBC,Ottawa hires consultants to advise on airport sell-offs,neutral,0.0,0.033459,0.040474,0.111738,0.055638,0.009949,0,0,0
+337,2017-07-20,CBC,"Government inaction to blame for unequal access to criminal pardons, lawyers claim",negative,-0.915273,0.285406,0.04427,0.323019,0.543489,0.001586,0,0,0
+338,2017-07-20,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
+339,2017-07-20,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
+340,2017-07-20,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+341,2017-07-20,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
+342,2017-07-20,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
+343,2017-07-20,CBC,"'Reconciliation in action': Quebec Cree leaders sign governance, funding agreement with Ottawa",neutral,0.0,0.100649,0.081265,0.098493,0.223787,0.105118,0,0,0
+344,2017-07-20,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
+345,2017-07-20,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
+346,2017-07-20,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
+347,2017-07-20,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
+348,2017-07-21,RT,‘Russians find any place they can make our lives more difficult’ – CIA chief                                                                    ,negative,-0.299021,0.246222,0.473805,0.104977,0.081092,0.273964,0,0,0
+349,2017-07-21,RT,"US ‘global strike’ concept a direct threat, nuclear arms are good deterrent – Russian naval doctrine                                                                    ",neutral,0.0,0.087418,0.910162,0.056964,0.049919,0.035825,0,0,0
+350,2017-07-21,RT,"‘I’m scared & shocked’: Eyewitness of Aegean earthquake reveals dramatic aftermath (PHOTOS, VIDEOS)                                                                    ",negative,-0.591427,0.130854,0.746254,0.033129,0.079753,0.085988,0,0,0
+351,2017-07-21,RT,‘Dogs eating bodies’: Witnesses recall the horrors of US-led liberation of Raqqa                                                                    ,negative,-0.466399,0.214669,0.53449,0.045048,0.419328,0.010717,0,0,0
+352,2017-07-21,RT,'Everything will collapse': German courts ‘overwhelmed’ by asylum seeker claims                                                                    ,negative,-0.639542,0.261228,0.162316,0.17506,0.132161,0.050718,0,0,0
+353,2017-07-21,WT,FBI relies on discredited dossier in Russia investigation,negative,-0.546289,0.235329,0.104714,0.157561,0.22847,0.073006,0,0,0
+354,2017-07-21,WT,White House says Trump still backs Sessions as attorney general,neutral,0.0,0.373336,0.293143,0.309915,0.102674,0.136073,0,1,0
+355,2017-07-21,WT,"Senate confirms John Bush, Trump’s 6th Circuit Court pick",neutral,0.0,0.157872,0.199725,0.0578,0.271914,0.087972,0,1,0
+356,2017-07-21,WT,"With longer odds, Senate Republicans forge ahead with Obamacare repeal plans",negative,-0.352135,0.224379,0.055865,0.2863,0.469749,0.040697,0,0,0
+357,2017-07-21,WT,John McCain tweets he’ll ‘be back soon’ to Senate after brain cancer diagnosis ,negative,-0.637716,0.450867,0.375366,0.093305,0.327745,0.051454,0,0,0
+358,2017-07-21,WT,Trump supporters fear Mueller’s peek into business dealings will be fatal blow,negative,-0.714798,0.0777,0.867567,0.032919,0.12976,0.028334,0,1,0
+359,2017-07-21,WT,DeVos urges state legislators to take on foes of campus free speech,negative,-0.375059,0.21414,0.261204,0.197953,0.192077,0.091115,0,0,0
+360,2017-07-21,WT,Broadcasters undermine Trump with an ‘Iron Curtain’ of hostile Russia news,negative,-0.640714,0.18063,0.359624,0.211557,0.145857,0.118387,0,1,0
+361,2017-07-21,WT,"Trump axes 860 Obama regulations, 179 from ‘secret’ list",neutral,0.0,0.166335,0.059204,0.042006,0.040973,0.502597,0,1,0
+362,2017-07-21,WT,Steve King says firing Sessions would be a mistake for Trump ,negative,-0.345364,0.605094,0.111088,0.354835,0.094665,0.066135,0,1,0
+363,2017-07-21,WT,Trump remains mum on next step of Middle East war plan,neutral,0.0,0.283832,0.263555,0.269069,0.180999,0.069068,0,1,0
+364,2017-07-21,WT,CBO score for revised GOP health plan shows minimal change; 22 million would still be uninsured,negative,-0.653906,0.301181,0.212845,0.031499,0.081166,0.426913,0,0,0
+365,2017-07-21,WT,Republican senators must embrace boldness to win health care fight,neutral,0.0,0.097879,0.010922,0.106066,0.254148,0.610408,0,0,0
+366,2017-07-21,WT,Members of Congress join protests of Chinese Falun Gong persecution,negative,-0.306733,0.140009,0.138917,0.504374,0.285918,0.105595,0,0,0
+367,2017-07-21,WT,"Glioblastoma: Rare, deadly and incurable brain cancer",negative,-0.889985,0.574115,0.271492,0.076858,0.055649,0.189417,0,0,0
+368,2017-07-21,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+369,2017-07-21,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+370,2017-07-21,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
+371,2017-07-21,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
+372,2017-07-21,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+373,2017-07-21,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
+374,2017-07-21,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
+375,2017-07-21,CBC,Julie Payette's vetting for governor general questioned amid 'disquieting' revelations,neutral,0.0,0.396841,0.122191,0.053341,0.218727,0.178324,0,0,0
+376,2017-07-21,CBC,Canada's high court to hear B.C. appeal in battle against big tobacco,negative,-0.624822,0.339027,0.247459,0.167842,0.138141,0.069112,0,0,0
+377,2017-07-21,CBC,Midweek podcast: Morneau closing the loop and B.C. (finally) gets a premier,neutral,0.0,0.235282,0.021418,0.035052,0.003306,0.681425,0,0,0
+378,2017-07-21,CBC,Trump's 'influential' pick for ambassador to Canada faces Senate hearing,neutral,0.0,0.212179,0.141786,0.09575,0.412352,0.05467,0,1,0
+379,2017-07-21,CBC,Deadline for decision on Canada Post home delivery missed as Liberals ponder way forward,negative,-0.817591,0.508887,0.229576,0.124814,0.111426,0.040041,0,0,0
+380,2017-07-21,CBC,Trudeau's silence on Payette's expunged assault charge shows double standard: Robyn Urback,negative,-0.587314,0.222958,0.126404,0.322813,0.549017,0.02306,0,0,1
+381,2017-07-21,CBC,Premiers ask for pot legalization delay if federal government can't resolve key concerns,negative,-0.765299,0.410533,0.100775,0.131522,0.045502,0.036938,0,0,0
+382,2017-07-21,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.164615,0.059925,0.106117,0.124827,0.280334,0,1,0
+383,2017-07-21,CBC,Governor General breaches royal protocol by touching Queen to avoid her stumbling on 'slippy' carpet,negative,-0.320181,0.131137,0.174993,0.211012,0.220224,0.199799,0,0,0
+384,2017-07-22,RT,'Illegitimate coalition' must pay for destroying Syria – Damascus to UN                                                                    ,negative,-0.660032,0.251829,0.136185,0.645524,0.270273,0.003782,0,0,0
+385,2017-07-22,RT,"US contributed to ISIS creation, now tries to claim victory over it – Iraqi VP talks tough                                                                    ",neutral,0.0,0.431424,0.113792,0.127521,0.101452,0.013461,0,0,0
+386,2017-07-22,RT,Polish Senate approves controversial Supreme Court reform bill                                                                    ,neutral,0.0,0.132773,0.116278,0.153334,0.196739,0.037165,0,0,0
+387,2017-07-22,RT,"German media failed to objectively report refugee crisis, sided with govt agenda – study                                                                    ",negative,-0.670665,0.625245,0.154946,0.125173,0.426319,0.001104,0,0,0
+388,2017-07-22,RT,US special operations chief confirms end of CIA support for anti-Assad forces in Syria                                                                    ,neutral,0.0,0.21383,0.269909,0.316322,0.431672,0.046153,0,0,0
+389,2017-07-22,WT,Senate ref flags key parts of GOP health bill plan,neutral,0.0,0.049776,0.049225,0.10195,0.072737,0.015093,0,0,0
+390,2017-07-22,WT,Sarah Huckabee Sanders promoted to White House press secretary,neutral,0.0,0.088791,0.190019,0.136287,0.497048,0.184213,0,0,0
+391,2017-07-22,WT,Anthony Scaramucci meets the press; Sarah Huckabee Sanders promoted,neutral,0.0,0.04726,0.090208,0.122957,0.465845,0.307358,0,0,0
+392,2017-07-22,WT,AFT’s Randi Weingarten blasts school-choice reforms as ‘polite cousins of segregation’,neutral,0.0,0.151137,0.06077,0.115003,0.090803,0.616011,0,0,0
+393,2017-07-22,WT,Trump’s new White House communications chief has voiced support for gun control,neutral,0.0,0.274591,0.390536,0.197685,0.113297,0.190278,0,1,0
+394,2017-07-22,WT,"Preet Bharara, ousted federal prosecutor, blasts Trump over Mueller probe reports",neutral,0.0,0.421521,0.029349,0.095337,0.057406,0.182893,0,1,0
+395,2017-07-22,WT,VP Pence implores senators to ‘step up’ on health care bill,neutral,0.0,0.056608,0.03141,0.054854,0.073624,0.092852,0,0,0
+396,2017-07-22,WT,"Sean Spicer resigns as White House press secretary, calls Scaramucci hire a mistake",negative,-0.315773,0.287068,0.316251,0.399922,0.157411,0.032668,0,0,0
+397,2017-07-22,WT,"Trump to order major review of defense industrial base, improved military readiness",neutral,0.0,0.360658,0.154995,0.020043,0.095699,0.082008,0,1,0
+398,2017-07-22,WT,Former CBO directors defend agency’s integrity ,neutral,0.0,0.211289,0.043455,0.225408,0.300864,0.128922,0,0,0
+399,2017-07-22,WT,Trump’s legal team making major changes: Reports,neutral,0.0,0.083641,0.065887,0.105373,0.060375,0.110578,0,1,0
+400,2017-07-22,WT,Ted Cruz says Senate is close to passing a health care bill,positive,0.452146,0.409329,0.057421,0.158609,0.235602,0.158298,0,0,0
+401,2017-07-22,WT,Kellyanne Conway: It’s time for Congress to ‘do its job’ on health care,positive,0.696643,0.224614,0.038903,0.107245,0.059624,0.483579,0,0,0
+402,2017-07-22,WT,"Sergey Lavrov suggests there may have been more meetings between Trump, Putin: Report",neutral,0.0,0.125291,0.087039,0.04313,0.021783,0.170024,1,1,0
+403,2017-07-22,WT,Richard Blumenthal: Trump possibly obstructing justice with Mueller case,neutral,0.0,0.457075,0.019085,0.131793,0.078845,0.11107,0,1,0
+404,2017-07-22,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+405,2017-07-22,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+406,2017-07-22,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+407,2017-07-22,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+408,2017-07-22,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+409,2017-07-22,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+410,2017-07-22,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+411,2017-07-22,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+412,2017-07-22,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+413,2017-07-22,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+414,2017-07-22,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+415,2017-07-22,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+416,2017-07-22,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
+417,2017-07-22,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
+418,2017-07-22,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
+419,2017-07-22,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
+420,2017-07-23,RT,Russia is no longer America's 'single' biggest threat – top US general                                                                    ,negative,-0.631088,0.188977,0.816807,0.042162,0.095883,0.04484,0,0,0
+421,2017-07-23,RT,Rocket launched from Gaza Strip – Israeli military                                                                    ,neutral,0.0,0.462785,0.124685,0.069402,0.330528,0.141775,0,0,0
+422,2017-07-23,RT,"'We’re bad day away from Russians asking, ‘Why are you still in Syria?’ – top US commander                                                                    ",neutral,0.0,0.519887,0.508724,0.138634,0.121035,0.016951,0,0,0
+423,2017-07-23,RT,"EU concerned over US bill on Russia sanctions, warns of ‘unintended consequences’                                                                     ",neutral,0.0,0.146506,0.440041,0.452291,0.096083,0.014697,0,0,0
+424,2017-07-23,RT,"Israeli police clash with Palestinians in Jerusalem, RT Arabic reporter caught in violence (VIDEO)                                                                    ",negative,-0.505608,0.394821,0.246561,0.261033,0.388061,0.053977,0,0,0
+425,2017-07-23,WT,New Trump communications director says he’ll delete old tweets to avoid ‘distraction’,negative,-0.620619,0.619836,0.169837,0.234789,0.200632,0.034182,0,1,0
+426,2017-07-23,WT,"Sen. Gardner stays cool as pro-Obamacare activists target him with sit-ins, shout-downs",neutral,0.0,0.143639,0.289119,0.254451,0.221453,0.199189,0,0,0
+427,2017-07-23,WT,Congress strikes deal to stiffen Russia sanctions; Trump questions boost bill,neutral,0.0,0.108767,0.116927,0.292749,0.253957,0.143244,0,1,0
+428,2017-07-23,WT,Trump tweets ‘the U.S. President has the complete power to pardon’,positive,0.436383,0.131341,0.035175,0.143701,0.280548,0.337102,0,1,0
+429,2017-07-23,WT,Boss of firm behind anti-Trump dossier to plead the Fifth at congressional hearing,negative,-0.651379,0.135338,0.191962,0.252246,0.275273,0.262374,0,1,0
+430,2017-07-23,WT,Senate ref flags key parts of GOP health bill plan,neutral,0.0,0.049776,0.049225,0.10195,0.072737,0.015093,0,0,0
+431,2017-07-23,WT,Sarah Huckabee Sanders promoted to White House press secretary,neutral,0.0,0.088791,0.190019,0.136287,0.497048,0.184213,0,0,0
+432,2017-07-23,WT,Anthony Scaramucci meets the press; Sarah Huckabee Sanders promoted,neutral,0.0,0.04726,0.090208,0.122957,0.465845,0.307358,0,0,0
+433,2017-07-23,WT,AFT’s Randi Weingarten blasts school-choice reforms as ‘polite cousins of segregation’,neutral,0.0,0.151137,0.06077,0.115003,0.090803,0.616011,0,0,0
+434,2017-07-23,WT,Trump’s new White House communications chief has voiced support for gun control,neutral,0.0,0.274591,0.390536,0.197685,0.113297,0.190278,0,1,0
+435,2017-07-23,WT,"Preet Bharara, ousted federal prosecutor, blasts Trump over Mueller probe reports",neutral,0.0,0.421521,0.029349,0.095337,0.057406,0.182893,0,1,0
+436,2017-07-23,WT,VP Pence implores senators to ‘step up’ on health care bill,neutral,0.0,0.056608,0.03141,0.054854,0.073624,0.092852,0,0,0
+437,2017-07-23,WT,"Sean Spicer resigns as White House press secretary, calls Scaramucci hire a mistake",negative,-0.315773,0.287068,0.316251,0.399922,0.157411,0.032668,0,0,0
+438,2017-07-23,WT,"Trump to order major review of defense industrial base, improved military readiness",neutral,0.0,0.360658,0.154995,0.020043,0.095699,0.082008,0,1,0
+439,2017-07-23,WT,Former CBO directors defend agency’s integrity ,neutral,0.0,0.211289,0.043455,0.225408,0.300864,0.128922,0,0,0
+440,2017-07-23,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+441,2017-07-23,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+442,2017-07-23,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+443,2017-07-23,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+444,2017-07-23,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+445,2017-07-23,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+446,2017-07-23,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+447,2017-07-23,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+448,2017-07-23,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+449,2017-07-23,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+450,2017-07-23,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+451,2017-07-23,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+452,2017-07-23,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+453,2017-07-23,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+454,2017-07-23,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+455,2017-07-23,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+456,2017-07-24,RT,Brussels to act ‘within days’ if US sanctions hurt EU trade with Russia – internal memo                                                                     ,negative,-0.425777,0.590731,0.312547,0.102061,0.04144,0.109876,0,0,0
+457,2017-07-24,RT,China warns India not to ‘push its luck’ amid border stand-off in Himalayas                                                                    ,neutral,0.0,0.184131,0.349348,0.338568,0.110841,0.242774,0,0,0
+458,2017-07-24,RT,‘We hear nothing in Western media about devastation of Mosul’: Academic who visited city to RT                                                                      ,negative,-0.749669,0.186341,0.077446,0.050191,0.348857,0.326696,0,0,0
+459,2017-07-24,RT,Futuristic jets & battle hardened planes: Highlights of Russia’s MAKS 2017 airshow (VIDEOS)                                                                    ,positive,0.892332,0.263729,0.214012,0.130056,0.071745,0.128272,0,0,0
+460,2017-07-24,RT,‘Crimea has always been Russia’: Award winning filmmaker Kusturica says during Peninsula visit                                                                    ,neutral,0.0,0.064084,0.099502,0.044862,0.098922,0.681013,0,0,0
+461,2017-07-24,WT,Jared Kushner denies collusion in statement ahead of Capitol Hill testimony,positive,0.677632,0.31435,0.014762,0.238734,0.236682,0.104095,0,0,0
+462,2017-07-24,WT,Rand Paul: Trump likely has ability to pardon himself,neutral,0.0,0.25579,0.122121,0.051826,0.079756,0.185896,0,1,0
+463,2017-07-24,WT,"Jared Kushner: Jewish-American paradox, traditional presidential family adviser",neutral,0.0,0.237747,0.06452,0.046227,0.376418,0.154744,0,0,0
+464,2017-07-24,WT,Al Franken wants Attorney General Jeff Sessions to testify again after anonymous report,negative,-0.358745,0.161287,0.107242,0.290101,0.077196,0.150215,0,0,0
+465,2017-07-24,WT,Ethanol bill defeated in Senate,negative,-0.372534,0.303073,0.269003,0.234775,0.191104,0.024459,0,0,0
+466,2017-07-24,WT,"Chuck Schumer previews Democrats’ new economic plan, party unity",neutral,0.0,0.094395,0.108967,0.057157,0.042138,0.561548,0,0,0
+467,2017-07-24,WT,Senate to hold procedural vote on health care,neutral,0.0,0.204243,0.033156,0.186882,0.262109,0.396944,0,0,0
+468,2017-07-24,WT,Congress’ bipartisan agreement to take hard line against Russia puts Trump to test on sanctions,neutral,0.0,0.600487,0.133944,0.137812,0.285426,0.016203,0,1,0
+469,2017-07-24,WT,Anthony Scaramucci cuts to the chase,neutral,0.0,0.45902,0.124595,0.28164,0.211715,0.093192,0,0,0
+470,2017-07-24,WT,Vets balk at Hill proposal to offer ‘choice’ health care,neutral,0.0,0.251076,0.029788,0.015713,0.05324,0.658184,0,0,0
+471,2017-07-24,WT,Fact-checkers drawn into heated debate over number of noncitizens who vote illegally,negative,-0.693429,0.148027,0.071996,0.366962,0.347539,0.191261,0,0,0
+472,2017-07-24,WT,"Nominee for deputy Interior secretary violated disclosure laws, say green groups",neutral,0.0,0.158246,0.066317,0.189428,0.119603,0.144764,0,0,0
+473,2017-07-24,WT,"Maryland Democrats see opportunity in governor’s race, try to link Hogan with Trump",neutral,0.0,0.236239,0.03229,0.137703,0.157706,0.041266,0,1,0
+474,2017-07-24,WT,New Trump communications director says he’ll delete old tweets to avoid ‘distraction’,negative,-0.620619,0.619836,0.169837,0.234789,0.200632,0.034182,0,1,0
+475,2017-07-24,WT,"After six months in White House, Trump aims to amplify leadership brand",neutral,0.0,0.069453,0.245075,0.059931,0.063706,0.334513,0,1,0
+476,2017-07-24,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
+477,2017-07-24,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+478,2017-07-24,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+479,2017-07-24,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+480,2017-07-24,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+481,2017-07-24,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+482,2017-07-24,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+483,2017-07-24,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+484,2017-07-24,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+485,2017-07-24,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+486,2017-07-24,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+487,2017-07-24,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+488,2017-07-24,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+489,2017-07-24,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+490,2017-07-24,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+491,2017-07-24,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+492,2017-07-25,RT,"US mulls sending arms to Kiev, doesn’t view move as 'provocative' – US special envoy to Ukraine                                                                    ",positive,0.468385,0.060964,0.077692,0.024299,0.079034,0.415985,0,0,0
+493,2017-07-25,RT,Turks spew vitriol at Eurowings amid reports ‘fearful’ German pilot refused flight to Ankara                                                                    ,negative,-0.442748,0.054271,0.375131,0.092562,0.614266,0.008289,0,0,0
+494,2017-07-25,RT,Israel agrees to remove metal detectors from Temple Mount after wave of violent protests                                                                    ,neutral,0.0,0.3157,0.067721,0.337383,0.501449,0.070719,0,0,0
+495,2017-07-25,RT,8 civilians killed in US-Afghan strike against ISIS – Afghan provincial authority                                                                    ,negative,-0.421784,0.416169,0.238713,0.373333,0.176877,0.028962,0,0,0
+496,2017-07-25,RT,"‘False information, unverified sources’: Russia denies funding anti-fracking campaign in US                                                                    ",negative,-0.569247,0.304954,0.090674,0.292654,0.644316,0.005491,0,0,0
+497,2017-07-25,WT,Trump continues slamming Sessions as ‘weak’,neutral,0.0,0.477329,0.034194,0.476989,0.273594,0.02898,0,1,0
+498,2017-07-25,WT,Trump speaks to advisers about firing Attorney General Sessions,neutral,0.0,0.213528,0.058533,0.372703,0.125462,0.1813,0,1,0
+499,2017-07-25,WT,"Kushner exposed Russia probe as ‘witch hunt,’ ‘hoax,’ White House says",neutral,0.0,0.365319,0.130362,0.267361,0.290352,0.112375,0,0,0
+500,2017-07-25,WT,McCain to return to Senate for Tuesday’s health care vote,positive,0.780097,0.126182,0.023075,0.066624,0.274898,0.525489,0,0,0
+501,2017-07-25,WT,"Trump takes shots at Republicans, media and Obama at Boy Scout Jamboree",neutral,0.0,0.194982,0.018273,0.219473,0.657807,0.073392,0,1,0
+502,2017-07-25,WT,Trump media: 19 talk radio hosts broadcast live from the White House on Tuesday,neutral,0.0,0.1674,0.102487,0.053349,0.157185,0.557309,0,1,0
+503,2017-07-25,WT,Dianne Feinstein pushes for Attorney General Sessions to testify on Russian ambassador meetings,neutral,0.0,0.299701,0.38831,0.16706,0.023903,0.18221,0,0,0
+504,2017-07-25,WT,Jared Kushner declares in detail why he’s innocent of Russian collusion,positive,0.861059,0.158592,0.372883,0.042284,0.188064,0.119857,0,0,0
+505,2017-07-25,WT,"Senate to vote Tuesday on motion to begin debate on Obamacare repeal, replace bill",negative,-0.604675,0.173307,0.15135,0.480467,0.404968,0.074173,0,0,0
+506,2017-07-25,WT,Ohio Gov. John Kasich blasts Senate GOP health care strategy,negative,-0.46816,0.326841,0.03366,0.18108,0.259418,0.306732,0,0,0
+507,2017-07-25,WT,Sessions has support of law enforcement groups,positive,0.716323,0.087695,0.147499,0.159262,0.099287,0.142021,0,0,0
+508,2017-07-25,WT,Thinking big about money,neutral,0.0,0.098294,0.083364,0.171677,0.063357,0.062789,0,0,0
+509,2017-07-25,WT,"Trump implores Republicans to deliver big legislative win, starting with Obamacare repeal",negative,-0.701592,0.20441,0.055875,0.299698,0.409359,0.223614,0,1,0
+510,2017-07-25,WT,"IRS doled out more than $24 billion in potentially bogus refunds, audit says",negative,-0.45919,0.479588,0.059577,0.131415,0.089035,0.194707,0,0,0
+511,2017-07-25,WT,Mitch McConnell begs GOP to begin debate on health care,negative,-0.675588,0.362906,0.088044,0.286918,0.116795,0.23831,0,0,0
+512,2017-07-25,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
+513,2017-07-25,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
+514,2017-07-25,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
+515,2017-07-25,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
+516,2017-07-25,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
+517,2017-07-25,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
+518,2017-07-25,CBC,Ontario announces new mental health workers for troubled Pikangikum First Nation,neutral,0.0,0.373044,0.031057,0.142109,0.064258,0.375186,0,0,0
+519,2017-07-25,CBC,"Trudeau 'not working hard enough' on NAFTA file, says Scheer",negative,-0.7758,0.734158,0.191301,0.062282,0.03988,0.075634,0,0,1
+520,2017-07-25,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
+521,2017-07-25,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+522,2017-07-25,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+523,2017-07-25,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+524,2017-07-25,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+525,2017-07-25,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+526,2017-07-25,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+527,2017-07-25,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+528,2017-07-26,RT,German business lobby urges EU action against new US sanctions on Russia                                                                    ,negative,-0.752691,0.083609,0.121724,0.101034,0.147598,0.330194,0,0,0
+529,2017-07-26,RT,Iran will ‘strengthen defensive weapons’ in response to US sanctions – Rouhani                                                                    ,negative,-0.438211,0.346036,0.209881,0.24062,0.108074,0.143827,0,0,0
+530,2017-07-26,RT,"New US sanctions against Russia ‘defy common sense’, will cause retaliation – Moscow                                                                    ",negative,-0.644028,0.242715,0.193887,0.068974,0.058114,0.220259,0,0,0
+531,2017-07-26,RT,Pentagon snared in govt sting as fake cops easily acquire $1.2mn worth of military gear                                                                    ,neutral,0.0,0.698309,0.156813,0.15031,0.201104,0.022656,0,0,0
+532,2017-07-26,RT,Erdogan: Turkey will ‘no longer’ cave in to pressure from the West                                                                    ,negative,-0.411492,0.479838,0.294578,0.035516,0.020052,0.030755,0,0,0
+533,2017-07-26,WT,"Senate Republicans win health care debate vote, but the fight has only begun",neutral,0.0,0.086591,0.011283,0.275553,0.563412,0.279022,0,0,0
+534,2017-07-26,WT,IRS finally agrees to clear last tea party case,neutral,0.0,0.080908,0.016613,0.03913,0.063321,0.817417,0,0,0
+535,2017-07-26,WT,"Trump says ‘time will tell’ about attorney general, but Senate Republicans defend Sessions",neutral,0.0,0.269783,0.020276,0.399288,0.536588,0.03729,0,1,0
+536,2017-07-26,WT,"Senate panels clash over access to Kushner, Manafort",negative,-0.654277,0.575104,0.091877,0.159916,0.146315,0.04072,0,0,0
+537,2017-07-26,WT,McConnell: Sessions ‘made right decision to recuse himself’,neutral,0.0,0.130377,0.110263,0.13051,0.037303,0.33517,0,0,0
+538,2017-07-26,WT,Scaramucci threatens to ‘fire everybody’ to stop White House leaks,negative,-0.811247,0.11765,0.587746,0.361081,0.235,0.058768,0,0,0
+539,2017-07-26,WT,House votes to undo federal consumer bureau’s arbitration rule,negative,-0.453285,0.253647,0.124471,0.109933,0.127813,0.370204,0,0,0
+540,2017-07-26,WT,DNC dumps $1.5 million into Virginia governor’s race,neutral,0.0,0.490426,0.149412,0.093695,0.148954,0.111893,0,0,0
+541,2017-07-26,WT,"Congress loves media, not voters, says a melancholy poll",positive,0.609949,0.034298,0.018521,0.023363,0.117711,0.776871,0,0,0
+542,2017-07-26,WT,House GOP leaders go back to drawing board on VA ‘choice’ measure,negative,-0.552764,0.348706,0.164514,0.123249,0.095671,0.357386,0,0,0
+543,2017-07-26,WT,"Recusal or not, Trump’s attacks on Sessions no way to help drain the swamp",negative,-0.787392,0.503363,0.535537,0.130658,0.052636,0.014141,0,1,0
+544,2017-07-26,WT,Trump to keep fulfilling promises made to American people,positive,0.734854,0.284259,0.048082,0.142702,0.383742,0.283881,0,1,0
+545,2017-07-26,WT,"Trump’s energy, environment accomplishments stand out in first six months",positive,0.719476,0.200704,0.062463,0.006931,0.027704,0.715287,0,1,0
+546,2017-07-26,WT,Rand Paul: Senate to work on health care reform in pieces if repeal fails,negative,-0.776564,0.582258,0.092811,0.227051,0.16423,0.064687,0,0,0
+547,2017-07-26,WT,Ivanka Trump retains legal counsel over Russia probe,neutral,0.0,0.332681,0.217202,0.082138,0.122663,0.120755,0,1,0
+548,2017-07-26,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
+549,2017-07-26,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
+550,2017-07-26,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
+551,2017-07-26,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
+552,2017-07-26,CBC,Trans Mountain pipeline gets Indigenous-led oversight committee,neutral,0.0,0.194529,0.147198,0.168332,0.119394,0.224307,0,0,0
+553,2017-07-26,CBC,"Government, Indigenous leaders herald health agreement that will dismantle 'colonial' system",neutral,0.0,0.08406,0.107559,0.103387,0.1875,0.354197,0,0,0
+554,2017-07-26,CBC,Conservative politicians flock to U.S. media to whip up ignorance and bile: Neil Macdonald,negative,-0.746994,0.321563,0.193553,0.433514,0.410394,0.008327,0,0,0
+555,2017-07-26,CBC,Canadian defence deal with Azerbaijan raises new questions about arms export controls,neutral,0.0,0.151276,0.154207,0.372229,0.170427,0.164228,0,0,0
+556,2017-07-26,CBC,"Reports of child pornography, sexual crimes against minors on the rise",negative,-0.869873,0.102051,0.068218,0.272718,0.722604,0.027719,0,0,0
+557,2017-07-26,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
+558,2017-07-26,CBC,Pot charges rise in Montreal despite downward trend in rest of Canada,negative,-0.824517,0.426728,0.038044,0.141633,0.326101,0.126704,0,0,0
+559,2017-07-26,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
+560,2017-07-26,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
+561,2017-07-26,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
+562,2017-07-26,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
+563,2017-07-26,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
+564,2017-07-27,RT,"I’d launch nukes at China on Trump's orders, says US Pacific Fleet chief                                                                    ",neutral,0.0,0.423897,0.086682,0.108347,0.15223,0.166535,0,1,0
+565,2017-07-27,RT,"'Counter-sanctions possible, trade war between EU & US would be very bad' - German economy minister                                                                    ",positive,0.513664,0.687858,0.284779,0.133007,0.071651,0.05696,0,0,0
+566,2017-07-27,RT,‘Terribly bad mistake’: US Senator says Russia sanctions go against EU energy security & free trade                                                                    ,negative,-0.744876,0.506758,0.402323,0.262678,0.083415,0.025186,0,0,0
+567,2017-07-27,RT,"Maduro to Trump: ‘Stop aggression against Venezuela, stop meddling in Latin American affairs'                                                                    ",negative,-0.410276,0.263133,0.137833,0.343123,0.380206,0.0433,0,1,0
+568,2017-07-27,RT,Netanyahu threatens to kick Al Jazeera out of Israel for ‘inciting’ Al-Aqsa protests                                                                    ,neutral,0.0,0.039172,0.363061,0.440503,0.464537,0.044949,0,0,0
+569,2017-07-27,WT,"Loss of White House allies, gain of competitive rival bode ill for Priebus as chief of staff",negative,-0.715949,0.618737,0.296083,0.194365,0.158026,0.022635,0,0,0
+570,2017-07-27,WT,Firing Sessions not a foolproof method for stopping Russia probe,neutral,0.0,0.330024,0.117769,0.196208,0.130119,0.074134,0,0,0
+571,2017-07-27,WT,Hillary skates again on email scandal,negative,-0.427118,0.120813,0.048997,0.30509,0.591173,0.086799,0,0,0
+572,2017-07-27,WT,House rejects Republican bills to punish CBO over scoring errors,negative,-0.804333,0.5882,0.058506,0.387339,0.313165,0.001161,0,0,0
+573,2017-07-27,WT,Trump gives his paycheck to Education Department; money will start STEM camp,neutral,0.0,0.093109,0.093128,0.184093,0.253199,0.337043,0,1,0
+574,2017-07-27,WT,"After rejection of full Obamacare repeal, Senate Republicans resort to ‘skinny’ version",negative,-0.800576,0.671564,0.045879,0.147895,0.34356,0.017746,0,0,0
+575,2017-07-27,WT,"Trump’s tax cut priority is America’s middle class, White House says",neutral,0.0,0.379945,0.136065,0.216357,0.430978,0.050698,0,1,0
+576,2017-07-27,WT,Trump exposes cultural divide with sudden ban on transgender troops,neutral,0.0,0.180699,0.154605,0.633051,0.259691,0.044776,0,1,0
+577,2017-07-27,WT,Trump emerges as the true master of media — whether the media likes it or not,positive,0.90075,0.023191,0.070675,0.088683,0.099007,0.654482,0,1,0
+578,2017-07-27,WT,"Trump to nominate Brownback, Kansas governor, to religious freedom post",neutral,0.0,0.202305,0.091861,0.143883,0.085419,0.318596,0,1,0
+579,2017-07-27,WT,Russian dossier operator Fusion GPS in business of doing dirty deeds for corrupt dictatorships,negative,-0.844681,0.181095,0.145222,0.133902,0.717026,0.05375,0,0,0
+580,2017-07-27,WT,Trump brings Taiwanese manufacturing giant to Wisconsin,positive,0.843717,0.247274,0.04503,0.069747,0.044539,0.386268,0,1,0
+581,2017-07-27,WT,ICE chief considers smuggling charges against leaders of illegal immigrant ‘sanctuaries’ ,negative,-0.569831,0.201865,0.135599,0.470787,0.34966,0.045961,0,0,0
+582,2017-07-27,WT,Trump praises patriotism of American Legion youth groups: ‘Next generation of American leaders’,neutral,0.0,0.324167,0.018819,0.006009,0.499166,0.21937,0,1,0
+583,2017-07-27,WT,The self-destructive campaign to cashier Jeff Sessions,negative,-0.822749,0.577662,0.270699,0.040674,0.148598,0.110835,0,0,0
+584,2017-07-27,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
+585,2017-07-27,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
+586,2017-07-27,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
+587,2017-07-27,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
+588,2017-07-27,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
+589,2017-07-27,CBC,Bid 'irregularity' takes air out of Ottawa's aim to buy 350 inflatable boats for military,neutral,0.0,0.103101,0.313367,0.099604,0.213964,0.110891,0,0,0
+590,2017-07-27,CBC,Ottawa rejecting many expense claims from public servants with Phoenix payroll problems,negative,-0.683106,0.544357,0.126755,0.40683,0.15211,0.008625,0,0,0
+591,2017-07-27,CBC,Deal to share passenger info between EU and Canada struck down on privacy concerns,negative,-0.868101,0.226365,0.292072,0.026194,0.026836,0.100878,0,0,0
+592,2017-07-27,CBC,Supreme Court to issue landmark rulings on Indigenous relationship with energy sector,neutral,0.0,0.292713,0.101875,0.159994,0.261864,0.186515,0,0,0
+593,2017-07-27,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
+594,2017-07-27,CBC,"'Don't be fooled,' says chief skeptical of Ottawa on 1st day of AFN meetings",negative,-0.718507,0.373909,0.183564,0.154376,0.033812,0.327551,0,0,0
+595,2017-07-27,CBC,"Changes coming to First Nations funding, feds tell AFN",negative,-0.405765,0.13278,0.018675,0.240399,0.270358,0.109746,0,0,0
+596,2017-07-27,CBC,"Immigration detention system is legal, though not always applied perfectly: judge",neutral,0.0,0.106099,0.036772,0.093339,0.037216,0.370101,0,0,0
+597,2017-07-27,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
+598,2017-07-27,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
+599,2017-07-27,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
+600,2017-07-28,RT,"Sanctions retaliation: Russia tells US to cut embassy staff, stop using storage facilities                                                                    ",negative,-0.529034,0.218018,0.085292,0.251327,0.095964,0.044781,0,0,0
+601,2017-07-28,RT,China closes east seas for fresh round of ‘large-scale’ military drills                                                                     ,neutral,0.0,0.27362,0.093487,0.017362,0.029649,0.563392,0,0,0
+602,2017-07-28,RT,‘US-orchestrated violence in Venezuela uses same model as events in Ukraine’ – Maduro                                                                    ,neutral,0.0,0.35335,0.033788,0.141906,0.14574,0.114504,0,0,0
+603,2017-07-28,RT,"48 injured in train crash at Barcelona station (PHOTOS, VIDEO)                                                                    ",negative,-0.618118,0.766901,0.090724,0.048367,0.212974,0.051435,0,0,0
+604,2017-07-28,RT,‘He used his real name online’: Bitcoin security expert on $4bn laundering scheme suspect                                                                    ,neutral,0.0,0.110638,0.361885,0.082846,0.123535,0.06411,0,0,0
+605,2017-07-28,WT,McCain ‘no’ vote kills Obamacare repeal effort in Senate,negative,-0.37271,0.198949,0.237291,0.456624,0.195458,0.096556,0,0,0
+606,2017-07-28,WT,"Scaramucci ramps up criticism of Priebus, says their relationship like biblical Cain and Abel",negative,-0.519354,0.484184,0.052065,0.066983,0.101547,0.304285,0,0,0
+607,2017-07-28,WT,White House calls for ‘thorough investigation’ of Debbie Wasserman Schultz staffer scandal,neutral,0.0,0.134146,0.092087,0.257824,0.47915,0.176681,0,0,0
+608,2017-07-28,WT,"House Republicans demand special counsel to investigate Clinton, Obama officials",negative,-0.499036,0.162162,0.266561,0.050254,0.084271,0.338195,0,0,0
+609,2017-07-28,WT,"Sessions carries on with Justice Department tasks, despite Trump criticism",neutral,0.0,0.487937,0.024814,0.304591,0.041355,0.177915,0,1,0
+610,2017-07-28,WT,"With Mueller investigation, FBI gets chance to physically inspect ‘hacked’ DNC computers",neutral,0.0,0.311684,0.252314,0.265211,0.337876,0.060354,0,0,0
+611,2017-07-28,WT,"Courage, competence, sacrifice: What lawmakers can learn from the military",positive,0.924982,0.410276,0.121843,0.016586,0.066031,0.420255,0,0,0
+612,2017-07-28,WT,House GOP fundraising arm hopes to defend incumbents with ‘Drain the Swamp’ swag,neutral,0.0,0.591962,0.188488,0.192843,0.248694,0.064956,0,0,0
+613,2017-07-28,WT,"Liberals, conservatives jointly decry university ‘safe spaces’",neutral,0.0,0.125732,0.077712,0.137179,0.733346,0.027896,0,0,0
+614,2017-07-28,WT,Activists try to head off recess replacement for AG Sessions,negative,-0.313731,0.29514,0.208206,0.07229,0.017324,0.021205,0,0,0
+615,2017-07-28,WT,Voters would be worse off with Democrats’ wan ‘better deal’,negative,-0.644238,0.557175,0.091024,0.348412,0.330744,0.007618,0,0,0
+616,2017-07-28,WT,Obama’s U.N. envoy Power faces questions over ‘unmasking’ requests,neutral,0.0,0.194636,0.052029,0.033701,0.18431,0.049774,0,0,0
+617,2017-07-28,WT,Trump to declare war on MS-13 gang ,neutral,0.0,0.164251,0.22983,0.353573,0.353681,0.128544,0,1,0
+618,2017-07-28,WT,Four Senate Republicans threaten to withhold support for ‘skinny repeal’ of Obamacare,negative,-0.678402,0.173737,0.107428,0.280124,0.688379,0.032413,0,0,0
+619,2017-07-28,WT,Trump honors officers who stopped gunman attack on GOP lawmakers,neutral,0.0,0.204515,0.297691,0.322933,0.562234,0.009563,0,1,0
+620,2017-07-28,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
+621,2017-07-28,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
+622,2017-07-28,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
+623,2017-07-28,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
+624,2017-07-28,CBC,How can we trust CSIS to protect our rights when it's accused of violating those of its employees?,negative,-0.820108,0.077057,0.00672,0.482091,0.422693,0.067443,0,0,0
+625,2017-07-28,CBC,What these transgender veterans think about Trump's U.S. trans troop ban,neutral,0.0,0.29135,0.104456,0.295479,0.461637,0.082002,0,1,0
+626,2017-07-28,CBC,Canada promotes recruitment of transgender troops as Donald Trump imposes military ban,neutral,0.0,0.158366,0.161597,0.211045,0.636222,0.064322,0,1,0
+627,2017-07-28,CBC,'You failed': Missing and murdered inquiry commissioners confronted at AFN meeting,negative,-0.927449,0.555255,0.119545,0.215479,0.043743,0.054508,0,0,0
+628,2017-07-28,CBC,U.S. army medic who saved Omar Khadr's life calls $10.5M settlement the 'smart path',neutral,0.0,0.16247,0.035233,0.047247,0.019197,0.530737,0,0,0
+629,2017-07-28,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
+630,2017-07-28,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
+631,2017-07-28,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
+632,2017-07-28,CBC,Shorter routes sought as rate of postal worker injuries rises,neutral,0.0,0.519224,0.072426,0.105767,0.15849,0.059688,0,0,0
+633,2017-07-28,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
+634,2017-07-28,CBC,Canada's endangered wild ginseng under threat from poachers ,negative,-0.642091,0.120474,0.899381,0.048459,0.096998,0.025308,0,0,0
+635,2017-07-28,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
+636,2017-07-29,RT,‘We told you so’: EU reaps bitter harvest of siding with US in sanctions row – Russia’s UN envoy                                                                    ,negative,-0.693151,0.262481,0.076514,0.384881,0.129666,0.098425,0,0,0
+637,2017-07-29,RT,Trade war? EU ready for economic counter-sanctions if US anti-Russia bill signed – top officials                                                                    ,negative,-0.448622,0.325561,0.115692,0.289336,0.201769,0.272488,0,0,0
+638,2017-07-29,RT,US Navy fires warning shots at Iranian vessel in Persian Gulf for 2nd time in days – Tehran                                                                    ,negative,-0.672894,0.358159,0.146304,0.42712,0.148173,0.124961,0,0,0
+639,2017-07-29,RT,Violence erupts in London’s Hackney at protest over black man’s death during arrest (VIDEO)                                                                    ,negative,-0.781898,0.366153,0.116535,0.494997,0.409695,0.004853,0,0,0
+640,2017-07-29,RT,‘Music is languages of angels’ – conductor of Russian orchestra that awed Salzburg Festival (VIDEO)                                                                    ,neutral,0.0,0.075293,0.291836,0.010997,0.04965,0.482985,0,0,0
+641,2017-07-29,WT,Trump names DHS Secretary Kelly as White House chief of staff; Priebus out,neutral,0.0,0.240234,0.172813,0.227384,0.2958,0.106148,0,1,0
+642,2017-07-29,WT,Congress wins oversight battle with Trump; White House promises answers to all members,neutral,0.0,0.281774,0.173187,0.269252,0.157183,0.278015,0,1,0
+643,2017-07-29,WT,"Trump prods Congress to join fight against MS-13, illegal immigration",negative,-0.415875,0.176883,0.160811,0.534242,0.304975,0.04049,0,1,0
+644,2017-07-29,WT,Joe Manchin received donations from law firm pushing for gun control,negative,-0.438564,0.249224,0.151285,0.295933,0.270006,0.046502,0,0,0
+645,2017-07-29,WT,‘The Mooch’ stops talking after profanity-laced tirade: ‘Better not to comment’,negative,-0.520675,0.233747,0.153624,0.441684,0.138753,0.054654,0,0,0
+646,2017-07-29,WT,Trump on the road again for West Virginia rally,neutral,0.0,0.264114,0.269127,0.175405,0.150737,0.132809,0,1,0
+647,2017-07-29,WT,"Senate Democrats call for reset, quick fixes on health care",neutral,0.0,0.498399,0.017827,0.200803,0.101445,0.065427,0,0,0
+648,2017-07-29,WT,Trump makes fundraising pitch: ‘Washington status quo HATES what we’re doing’,negative,-0.901454,0.075166,0.112874,0.458862,0.37521,0.100358,0,1,0
+649,2017-07-29,WT,House Republicans slam Senate after health care vote,neutral,0.0,0.151428,0.040615,0.298624,0.298419,0.382719,0,0,0
+650,2017-07-29,WT,Tim Kaine pushes public option in next round of health care talks,neutral,0.0,0.358589,0.075088,0.132638,0.068575,0.39143,0,0,0
+651,2017-07-29,WT,Trump pushes Republicans to change rules for simple majority,neutral,0.0,0.352502,0.011351,0.140277,0.447281,0.185232,0,1,0
+652,2017-07-29,WT,Trump’s Treasury nixes struggling Obama-era government-run retirement program,negative,-0.309818,0.594835,0.147279,0.184975,0.157422,0.040747,0,1,0
+653,2017-07-29,WT,"Ronna McDaniel, RNC head: ‘Tough day,’ but Republicans did fight for the American people",negative,-0.314218,0.558266,0.052541,0.270804,0.403327,0.022175,0,0,0
+654,2017-07-29,WT,"Ben Cardin says Senate is still in session, can debate new health care ideas",positive,0.599895,0.272516,0.092824,0.16265,0.129788,0.478528,0,0,0
+655,2017-07-29,WT,Jeff Merkley: Democrats gasped when John McCain voted no on health care bill,neutral,0.0,0.298209,0.018362,0.215734,0.416094,0.02873,0,0,0
+656,2017-07-29,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
+657,2017-07-29,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
+658,2017-07-29,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
+659,2017-07-29,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
+660,2017-07-29,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
+661,2017-07-29,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
+662,2017-07-29,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
+663,2017-07-29,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
+664,2017-07-29,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
+665,2017-07-29,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
+666,2017-07-29,CBC,"Time for fighting has passed, Trudeau says ahead of meeting with Manitoba premier",positive,0.501106,0.268979,0.018683,0.054316,0.018237,0.414349,0,0,1
+667,2017-07-29,CBC,First Nations leaders reject call for MMIWG commissioners to step down,negative,-0.699046,0.498318,0.060376,0.275776,0.278616,0.045738,0,0,0
+668,2017-07-29,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
+669,2017-07-29,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
+670,2017-07-29,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
+671,2017-07-29,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
