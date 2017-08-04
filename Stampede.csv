@@ -1,337 +1,337 @@
 ID,DATE,TIME,TIME_OF_DAY,NETWORK,HEADLINE,SENTIMENT_LABEL,SENTIMENT_SCORE,EMOTION_SADNESS,EMOTION_FEAR,EMOTION_ANGER,EMOTION_DISGUST,EMOTION_JOY,PUTIN,TRUMP,TRUDEAU
-20,2017-07-11,11:00:00,Morning,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
-21,2017-07-11,11:00:00,Morning,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
-22,2017-07-11,11:00:00,Morning,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
-23,2017-07-11,11:00:00,Morning,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
-24,2017-07-11,11:00:00,Morning,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
-25,2017-07-11,11:00:00,Morning,CBC,"After years of missteps, Canadian military officials hope procurement now on track",neutral,0.0,0.106229,0.27531,0.061647,0.517914,0.180405,0,0,0
-26,2017-07-11,11:00:00,Morning,CBC,Poll Tracker: Federal poll averages and seat projections,neutral,0.0,0.09698,0.103342,0.067037,0.064531,0.020892,0,0,0
-27,2017-07-11,11:00:00,Morning,CBC,"On Khadr, Trudeau says Charter protects all Canadians 'even when it is uncomfortable'",negative,-0.311165,0.297915,0.052198,0.071755,0.541809,0.123047,0,0,1
-28,2017-07-11,11:00:00,Morning,CBC,"Amazon Prime does more for northern food security than federal subsidies, say Iqaluit residents",neutral,0.0,0.275872,0.129643,0.072001,0.366348,0.141894,0,0,0
-29,2017-07-11,11:00:00,Morning,CBC,"Canada, EU to provisionally apply CETA in September",neutral,0.0,0.292045,0.112958,0.027647,0.017861,0.054082,0,0,0
-30,2017-07-11,11:00:00,Morning,CBC,G20 leaders steel themselves for Trump's next trade move,neutral,0.0,0.262031,0.147694,0.178032,0.191246,0.256598,0,1,0
-31,2017-07-11,11:00:00,Morning,CBC,"Liberals defend and Tories attack Omar Khadr payout, both citing principles",neutral,0.0,0.091526,0.077817,0.260603,0.776016,0.007655,0,0,0
-32,2017-07-11,11:00:00,Morning,CBC,G20 leaders reaffirm support of Paris climate change agreement without U.S.,neutral,0.0,0.178425,0.175091,0.078784,0.209567,0.126822,0,0,0
-33,2017-07-11,11:00:00,Morning,CBC,"Sask. sends aircraft, firefighters to help fight B.C. wildfires",neutral,0.0,0.133518,0.138343,0.124503,0.032942,0.061517,0,0,0
-34,2017-07-11,11:00:00,Morning,CBC,Canada pledges $20M for women's entrepreneurship program,positive,0.574585,0.112963,0.078782,0.023798,0.139346,0.453671,0,0,0
-35,2017-07-11,11:00:00,Morning,CBC,El Salvador woman at the heart of legal challenge to Safe Third Country Agreement,positive,0.460505,0.191086,0.210511,0.020324,0.08814,0.4193,0,0,0
-56,2017-07-12,11:00:00,Morning,CBC,Manitoba MMIWG families want national inquiry commissioners replaced,neutral,0.0,0.346292,0.032762,0.117056,0.266701,0.153218,0,0,0
-57,2017-07-12,11:00:00,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
-58,2017-07-12,11:00:00,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
-59,2017-07-12,11:00:00,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
-60,2017-07-12,11:00:00,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
-61,2017-07-12,11:00:00,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
-62,2017-07-12,11:00:00,Morning,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-63,2017-07-12,11:00:00,Morning,CBC,Justin Trudeau will attend Calgary Stampede after initially bucking event,negative,-0.406753,0.360044,0.018504,0.192251,0.263458,0.086917,0,0,1
-64,2017-07-12,11:00:00,Morning,CBC,Former U.S. special forces soldier calls Justin Trudeau an Omar Khadr 'groupie',neutral,0.0,0.352859,0.154207,0.217304,0.328986,0.036987,0,0,1
-65,2017-07-12,11:00:00,Morning,CBC,Poloz may tap the interest-rate brakes as a promise and a warning: Don Pittis,negative,-0.757098,0.084747,0.379089,0.056584,0.115494,0.012166,0,0,0
-66,2017-07-12,11:00:00,Morning,CBC,"Majority of Canadians oppose Omar Khadr settlement, poll suggests",neutral,0.0,0.117541,0.024169,0.095783,0.282128,0.030708,0,0,0
-67,2017-07-12,11:00:00,Morning,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
-68,2017-07-12,11:00:00,Morning,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
-69,2017-07-12,11:00:00,Morning,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
-70,2017-07-12,11:00:00,Morning,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
-71,2017-07-12,11:00:00,Morning,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
-92,2017-07-13,11:00:01,Morning,CBC,Former astronaut Julie Payette to be Canada's next governor general,neutral,0.0,0.263381,0.122293,0.109868,0.193667,0.190061,0,0,0
-93,2017-07-13,11:00:01,Morning,CBC,3 reasons the interest rate hike is good for the Trudeau Liberals,positive,0.747059,0.157146,0.016846,0.074209,0.308843,0.469893,0,0,1
-94,2017-07-13,11:00:01,Morning,CBC,Omar Khadr fights attempt by soldier's widow to freeze his assets,negative,-0.413576,0.592513,0.242899,0.154527,0.127652,0.00573,0,0,0
-95,2017-07-13,11:00:01,Morning,CBC,"Watch Power & Politics for July 12, 2017",positive,0.574348,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-96,2017-07-13,11:00:01,Morning,CBC,What 3 legal minds think about the Omar Khadr settlement,neutral,0.0,0.140624,0.168885,0.161364,0.062307,0.256602,0,0,0
-97,2017-07-13,11:00:01,Morning,CBC,Bank of Canada raises interest rate for 1st time in 7 years to 0.75%,negative,-0.526206,0.249858,0.050646,0.058354,0.089373,0.275828,0,0,0
-98,2017-07-13,11:00:01,Morning,CBC,Canadian military exchange pilots flew in combat: documents,neutral,0.0,0.121176,0.133597,0.13757,0.293365,0.033898,0,0,0
-99,2017-07-13,11:00:01,Morning,CBC,Don't drain the swamp: report says wetlands help avert flood damage,negative,-0.776631,0.28728,0.323545,0.221157,0.065788,0.005999,0,0,0
-100,2017-07-13,11:00:01,Morning,CBC,"Manitoba families want national MMIWG inquiry commissioners replaced, regional inquiry created",neutral,0.0,0.183581,0.029994,0.096102,0.16095,0.273637,0,0,0
-101,2017-07-13,11:00:01,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
-102,2017-07-13,11:00:01,Morning,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
-103,2017-07-13,11:00:01,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
-104,2017-07-13,11:00:01,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
-105,2017-07-13,11:00:01,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
-106,2017-07-13,11:00:01,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
-107,2017-07-13,11:00:01,Morning,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-128,2017-07-14,11:00:01,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
-129,2017-07-14,11:00:01,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-130,2017-07-14,11:00:01,Morning,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
-131,2017-07-14,11:00:01,Morning,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
-132,2017-07-14,11:00:01,Morning,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
-133,2017-07-14,11:00:01,Morning,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
-134,2017-07-14,11:00:01,Morning,CBC,"Jagmeet Singh tops NDP leadership endorsements, but front-runner status yet to be confirmed",neutral,0.0,0.019663,0.158677,0.023705,0.035009,0.061,0,0,0
-135,2017-07-14,11:00:01,Morning,CBC,Judge rejects request to freeze Omar Khadr's assets,neutral,0.0,0.59823,0.080509,0.201414,0.09211,0.006336,0,0,0
-136,2017-07-14,11:00:01,Morning,CBC,Trudeau looks to court U.S. governors as NAFTA talks loom,neutral,0.0,0.1444,0.139614,0.172943,0.189868,0.08826,0,0,1
-137,2017-07-14,11:00:01,Morning,CBC,Wynne heads to U.S. at 'critical moment' in trade relationship,neutral,0.0,0.430716,0.052141,0.072483,0.027459,0.390924,0,0,0
-138,2017-07-14,11:00:01,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
-139,2017-07-14,11:00:01,Morning,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
-140,2017-07-14,11:00:01,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
-141,2017-07-14,11:00:01,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
-142,2017-07-14,11:00:01,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
-143,2017-07-14,11:00:01,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
-164,2017-07-15,11:00:01,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-165,2017-07-15,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-166,2017-07-15,11:00:01,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
-167,2017-07-15,11:00:01,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
-168,2017-07-15,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-169,2017-07-15,11:00:01,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
-170,2017-07-15,11:00:01,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
-171,2017-07-15,11:00:01,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
-172,2017-07-15,11:00:01,Morning,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
-173,2017-07-15,11:00:01,Morning,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
-174,2017-07-15,11:00:01,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
-175,2017-07-15,11:00:01,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-176,2017-07-15,11:00:01,Morning,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
-177,2017-07-15,11:00:01,Morning,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
-178,2017-07-15,11:00:01,Morning,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
-179,2017-07-15,11:00:01,Morning,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
-200,2017-07-16,11:00:00,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
-201,2017-07-16,11:00:00,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
-202,2017-07-16,11:00:00,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
-203,2017-07-16,11:00:00,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
-204,2017-07-16,11:00:00,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-205,2017-07-16,11:00:00,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-206,2017-07-16,11:00:00,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
-207,2017-07-16,11:00:00,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
-208,2017-07-16,11:00:00,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-209,2017-07-16,11:00:00,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
-210,2017-07-16,11:00:00,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
-211,2017-07-16,11:00:00,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
-212,2017-07-16,11:00:00,Morning,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
-213,2017-07-16,11:00:00,Morning,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
-214,2017-07-16,11:00:00,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
-215,2017-07-16,11:00:00,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-236,2017-07-17,11:00:01,Morning,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
-237,2017-07-17,11:00:01,Morning,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
-238,2017-07-17,11:00:01,Morning,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
-239,2017-07-17,11:00:01,Morning,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
-240,2017-07-17,11:00:01,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
-241,2017-07-17,11:00:01,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
-242,2017-07-17,11:00:01,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
-243,2017-07-17,11:00:01,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
-244,2017-07-17,11:00:01,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-245,2017-07-17,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-246,2017-07-17,11:00:01,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
-247,2017-07-17,11:00:01,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
-248,2017-07-17,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
-249,2017-07-17,11:00:01,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
-250,2017-07-17,11:00:01,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
-251,2017-07-17,11:00:01,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
-272,2017-07-18,11:00:01,Morning,CBC,Trade talks with Trump and the race for new pot rules top agenda for premiers' meeting,neutral,0.0,0.161414,0.066657,0.097849,0.107877,0.567801,0,1,0
-273,2017-07-18,11:00:01,Morning,CBC,"Graves of 45,000 veterans in disrepair due to funding shortfall: audit",negative,-0.6872,0.297842,0.151168,0.066906,0.086791,0.1402,0,0,0
-274,2017-07-18,11:00:01,Morning,CBC,Canada funds Europe-based missile defence program but won't join one at home,negative,-0.64914,0.090154,0.07448,0.02544,0.358254,0.037264,0,0,0
-275,2017-07-18,11:00:01,Morning,CBC,"Federal government looks to shore up seniors benefits program to prevent fraud, mistakes",negative,-0.586003,0.305185,0.228524,0.265485,0.070872,0.036313,0,0,0
-276,2017-07-18,11:00:01,Morning,CBC,'Missed opportunity': B.C.'s John Horgan will skip premiers meeting in Alberta,negative,-0.895449,0.089726,0.018607,0.045242,0.024617,0.445381,0,0,0
-277,2017-07-18,11:00:01,Morning,CBC,Renaming Ryerson University is a poor way to deal with Canada's ugly past,negative,-0.798674,0.577856,0.220427,0.148331,0.293383,0.004355,0,0,0
-278,2017-07-18,11:00:01,Morning,CBC,5 things to watch as U.S. reveals its NAFTA objectives,neutral,0.0,0.303352,0.284137,0.038304,0.032106,0.416673,0,0,0
-279,2017-07-18,11:00:01,Morning,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
-280,2017-07-18,11:00:01,Morning,CBC,Military veterans still struggle to find meaningful private sector work,negative,-0.792157,0.528994,0.41437,0.069656,0.17646,0.022746,0,0,0
-281,2017-07-18,11:00:01,Morning,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
-282,2017-07-18,11:00:01,Morning,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
-283,2017-07-18,11:00:01,Morning,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
-284,2017-07-18,11:00:01,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
-285,2017-07-18,11:00:01,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
-286,2017-07-18,11:00:01,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
-287,2017-07-18,11:00:01,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
-308,2017-07-19,11:00:00,Morning,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
-309,2017-07-19,11:00:00,Morning,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
-310,2017-07-19,11:00:00,Morning,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-311,2017-07-19,11:00:00,Morning,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
-312,2017-07-19,11:00:00,Morning,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
-313,2017-07-19,11:00:00,Morning,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
-314,2017-07-19,11:00:00,Morning,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
-315,2017-07-19,11:00:00,Morning,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
-316,2017-07-19,11:00:00,Morning,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
-317,2017-07-19,11:00:00,Morning,CBC,"After Trump's tough talk, NAFTA proposals look more like light reno than demolition",negative,-0.494125,0.658233,0.241549,0.097871,0.012548,0.05769,0,1,0
-318,2017-07-19,11:00:00,Morning,CBC,Which premiers are secure and which ones are worried at premiers conference,neutral,0.0,0.210911,0.582292,0.094196,0.084756,0.040597,0,0,0
-319,2017-07-19,11:00:00,Morning,CBC,"Trump administration reveals goals ahead of NAFTA talks with Canada, Mexico",neutral,0.0,0.230649,0.150127,0.020018,0.020521,0.477094,0,1,0
-320,2017-07-19,11:00:00,Morning,CBC,Indigenous leaders boycott 'segregated' premiers meeting in Edmonton,negative,-0.488461,0.136097,0.051575,0.169073,0.4075,0.188565,0,0,0
-321,2017-07-19,11:00:00,Morning,CBC,B.C. government readies for historic transition amid wildfire crisis,negative,-0.643975,0.208818,0.372809,0.181112,0.138248,0.069953,0,0,0
-322,2017-07-19,11:00:00,Morning,CBC,'See you there!' Trudeau to march in Halifax Pride parade Saturday,positive,0.434355,0.058989,0.024034,0.065403,0.117006,0.65451,0,0,1
-323,2017-07-19,11:00:00,Morning,CBC,Australian senator resigns after learning she's also Canadian,neutral,0.0,0.127931,0.129712,0.224233,0.252067,0.264657,0,0,0
-332,2017-07-20,11:00:00,Morning,CBC,"Andrew Scheer to name Lisa Raitt deputy leader, announce 'gender diverse' House leadership team Thursday",neutral,0.0,0.050262,0.083626,0.08048,0.080787,0.156196,0,0,0
-333,2017-07-20,11:00:00,Morning,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.236808,0.073528,0.102368,0.103356,0.185719,0,1,0
-334,2017-07-20,11:00:00,Morning,CBC,"Watch Power & Politics for July 19, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-335,2017-07-20,11:00:00,Morning,CBC,Health trouble brought on by mould exposure ends sailor's career,neutral,0.0,0.180829,0.139996,0.181365,0.086777,0.425415,0,0,0
-336,2017-07-20,11:00:00,Morning,CBC,Ottawa hires consultants to advise on airport sell-offs,neutral,0.0,0.033459,0.040474,0.111738,0.055638,0.009949,0,0,0
-337,2017-07-20,11:00:00,Morning,CBC,"Government inaction to blame for unequal access to criminal pardons, lawyers claim",negative,-0.915273,0.285406,0.04427,0.323019,0.543489,0.001586,0,0,0
-338,2017-07-20,11:00:00,Morning,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
-339,2017-07-20,11:00:00,Morning,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
-340,2017-07-20,11:00:00,Morning,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
-341,2017-07-20,11:00:00,Morning,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
-342,2017-07-20,11:00:00,Morning,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
-343,2017-07-20,11:00:00,Morning,CBC,"'Reconciliation in action': Quebec Cree leaders sign governance, funding agreement with Ottawa",neutral,0.0,0.100649,0.081265,0.098493,0.223787,0.105118,0,0,0
-344,2017-07-20,11:00:00,Morning,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
-345,2017-07-20,11:00:00,Morning,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
-346,2017-07-20,11:00:00,Morning,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
-347,2017-07-20,11:00:00,Morning,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
-368,2017-07-21,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
-369,2017-07-21,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-370,2017-07-21,11:00:01,Morning,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
-371,2017-07-21,11:00:01,Morning,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
-372,2017-07-21,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
-373,2017-07-21,11:00:01,Morning,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
-374,2017-07-21,11:00:01,Morning,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
-375,2017-07-21,11:00:01,Morning,CBC,Julie Payette's vetting for governor general questioned amid 'disquieting' revelations,neutral,0.0,0.396841,0.122191,0.053341,0.218727,0.178324,0,0,0
-376,2017-07-21,11:00:01,Morning,CBC,Canada's high court to hear B.C. appeal in battle against big tobacco,negative,-0.624822,0.339027,0.247459,0.167842,0.138141,0.069112,0,0,0
-377,2017-07-21,11:00:01,Morning,CBC,Midweek podcast: Morneau closing the loop and B.C. (finally) gets a premier,neutral,0.0,0.235282,0.021418,0.035052,0.003306,0.681425,0,0,0
-378,2017-07-21,11:00:01,Morning,CBC,Trump's 'influential' pick for ambassador to Canada faces Senate hearing,neutral,0.0,0.212179,0.141786,0.09575,0.412352,0.05467,0,1,0
-379,2017-07-21,11:00:01,Morning,CBC,Deadline for decision on Canada Post home delivery missed as Liberals ponder way forward,negative,-0.817591,0.508887,0.229576,0.124814,0.111426,0.040041,0,0,0
-380,2017-07-21,11:00:01,Morning,CBC,Trudeau's silence on Payette's expunged assault charge shows double standard: Robyn Urback,negative,-0.587314,0.222958,0.126404,0.322813,0.549017,0.02306,0,0,1
-381,2017-07-21,11:00:01,Morning,CBC,Premiers ask for pot legalization delay if federal government can't resolve key concerns,negative,-0.765299,0.410533,0.100775,0.131522,0.045502,0.036938,0,0,0
-382,2017-07-21,11:00:01,Morning,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.164615,0.059925,0.106117,0.124827,0.280334,0,1,0
-383,2017-07-21,11:00:01,Morning,CBC,Governor General breaches royal protocol by touching Queen to avoid her stumbling on 'slippy' carpet,negative,-0.320181,0.131137,0.174993,0.211012,0.220224,0.199799,0,0,0
-404,2017-07-22,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-405,2017-07-22,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
-406,2017-07-22,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
-407,2017-07-22,11:00:01,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
-408,2017-07-22,11:00:01,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
-409,2017-07-22,11:00:01,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
-410,2017-07-22,11:00:01,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
-411,2017-07-22,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-412,2017-07-22,11:00:01,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
-413,2017-07-22,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
-414,2017-07-22,11:00:01,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
-415,2017-07-22,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
-416,2017-07-22,11:00:01,Morning,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
-417,2017-07-22,11:00:01,Morning,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
-418,2017-07-22,11:00:01,Morning,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
-419,2017-07-22,11:00:01,Morning,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
-440,2017-07-23,11:00:01,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
-441,2017-07-23,11:00:01,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
-442,2017-07-23,11:00:01,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
-443,2017-07-23,11:00:01,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
-444,2017-07-23,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-445,2017-07-23,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
-446,2017-07-23,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
-447,2017-07-23,11:00:01,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
-448,2017-07-23,11:00:01,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
-449,2017-07-23,11:00:01,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
-450,2017-07-23,11:00:01,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
-451,2017-07-23,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-452,2017-07-23,11:00:01,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
-453,2017-07-23,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
-454,2017-07-23,11:00:01,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
-455,2017-07-23,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
-476,2017-07-24,11:00:00,Morning,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
-477,2017-07-24,11:00:00,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
-478,2017-07-24,11:00:00,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
-479,2017-07-24,11:00:00,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
-480,2017-07-24,11:00:00,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
-481,2017-07-24,11:00:00,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-482,2017-07-24,11:00:00,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
-483,2017-07-24,11:00:00,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
-484,2017-07-24,11:00:00,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
-485,2017-07-24,11:00:00,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
-486,2017-07-24,11:00:00,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
-487,2017-07-24,11:00:00,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
-488,2017-07-24,11:00:00,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-489,2017-07-24,11:00:00,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
-490,2017-07-24,11:00:00,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
-491,2017-07-24,11:00:00,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
-512,2017-07-25,11:00:01,Morning,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
-513,2017-07-25,11:00:01,Morning,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
-514,2017-07-25,11:00:01,Morning,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
-515,2017-07-25,11:00:01,Morning,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
-516,2017-07-25,11:00:01,Morning,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
-517,2017-07-25,11:00:01,Morning,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
-518,2017-07-25,11:00:01,Morning,CBC,Ontario announces new mental health workers for troubled Pikangikum First Nation,neutral,0.0,0.373044,0.031057,0.142109,0.064258,0.375186,0,0,0
-519,2017-07-25,11:00:01,Morning,CBC,"Trudeau 'not working hard enough' on NAFTA file, says Scheer",negative,-0.7758,0.734158,0.191301,0.062282,0.03988,0.075634,0,0,1
-520,2017-07-25,11:00:01,Morning,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
-521,2017-07-25,11:00:01,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
-522,2017-07-25,11:00:01,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
-523,2017-07-25,11:00:01,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
-524,2017-07-25,11:00:01,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
-525,2017-07-25,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
-526,2017-07-25,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
-527,2017-07-25,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
-548,2017-07-26,11:00:01,Morning,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
-549,2017-07-26,11:00:01,Morning,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
-550,2017-07-26,11:00:01,Morning,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
-551,2017-07-26,11:00:01,Morning,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
-552,2017-07-26,11:00:01,Morning,CBC,Trans Mountain pipeline gets Indigenous-led oversight committee,neutral,0.0,0.194529,0.147198,0.168332,0.119394,0.224307,0,0,0
-553,2017-07-26,11:00:01,Morning,CBC,"Government, Indigenous leaders herald health agreement that will dismantle 'colonial' system",neutral,0.0,0.08406,0.107559,0.103387,0.1875,0.354197,0,0,0
-554,2017-07-26,11:00:01,Morning,CBC,Conservative politicians flock to U.S. media to whip up ignorance and bile: Neil Macdonald,negative,-0.746994,0.321563,0.193553,0.433514,0.410394,0.008327,0,0,0
-555,2017-07-26,11:00:01,Morning,CBC,Canadian defence deal with Azerbaijan raises new questions about arms export controls,neutral,0.0,0.151276,0.154207,0.372229,0.170427,0.164228,0,0,0
-556,2017-07-26,11:00:01,Morning,CBC,"Reports of child pornography, sexual crimes against minors on the rise",negative,-0.869873,0.102051,0.068218,0.272718,0.722604,0.027719,0,0,0
-557,2017-07-26,11:00:01,Morning,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
-558,2017-07-26,11:00:01,Morning,CBC,Pot charges rise in Montreal despite downward trend in rest of Canada,negative,-0.824517,0.426728,0.038044,0.141633,0.326101,0.126704,0,0,0
-559,2017-07-26,11:00:01,Morning,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
-560,2017-07-26,11:00:01,Morning,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
-561,2017-07-26,11:00:01,Morning,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
-562,2017-07-26,11:00:01,Morning,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
-563,2017-07-26,11:00:01,Morning,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
-584,2017-07-27,11:00:01,Morning,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
-585,2017-07-27,11:00:01,Morning,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
-586,2017-07-27,11:00:01,Morning,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
-587,2017-07-27,11:00:01,Morning,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
-588,2017-07-27,11:00:01,Morning,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
-589,2017-07-27,11:00:01,Morning,CBC,Bid 'irregularity' takes air out of Ottawa's aim to buy 350 inflatable boats for military,neutral,0.0,0.103101,0.313367,0.099604,0.213964,0.110891,0,0,0
-590,2017-07-27,11:00:01,Morning,CBC,Ottawa rejecting many expense claims from public servants with Phoenix payroll problems,negative,-0.683106,0.544357,0.126755,0.40683,0.15211,0.008625,0,0,0
-591,2017-07-27,11:00:01,Morning,CBC,Deal to share passenger info between EU and Canada struck down on privacy concerns,negative,-0.868101,0.226365,0.292072,0.026194,0.026836,0.100878,0,0,0
-592,2017-07-27,11:00:01,Morning,CBC,Supreme Court to issue landmark rulings on Indigenous relationship with energy sector,neutral,0.0,0.292713,0.101875,0.159994,0.261864,0.186515,0,0,0
-593,2017-07-27,11:00:01,Morning,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
-594,2017-07-27,11:00:01,Morning,CBC,"'Don't be fooled,' says chief skeptical of Ottawa on 1st day of AFN meetings",negative,-0.718507,0.373909,0.183564,0.154376,0.033812,0.327551,0,0,0
-595,2017-07-27,11:00:01,Morning,CBC,"Changes coming to First Nations funding, feds tell AFN",negative,-0.405765,0.13278,0.018675,0.240399,0.270358,0.109746,0,0,0
-596,2017-07-27,11:00:01,Morning,CBC,"Immigration detention system is legal, though not always applied perfectly: judge",neutral,0.0,0.106099,0.036772,0.093339,0.037216,0.370101,0,0,0
-597,2017-07-27,11:00:01,Morning,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
-598,2017-07-27,11:00:01,Morning,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
-599,2017-07-27,11:00:01,Morning,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
-620,2017-07-28,11:00:00,Morning,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
-621,2017-07-28,11:00:00,Morning,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
-622,2017-07-28,11:00:00,Morning,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
-623,2017-07-28,11:00:00,Morning,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
-624,2017-07-28,11:00:00,Morning,CBC,How can we trust CSIS to protect our rights when it's accused of violating those of its employees?,negative,-0.820108,0.077057,0.00672,0.482091,0.422693,0.067443,0,0,0
-625,2017-07-28,11:00:00,Morning,CBC,What these transgender veterans think about Trump's U.S. trans troop ban,neutral,0.0,0.29135,0.104456,0.295479,0.461637,0.082002,0,1,0
-626,2017-07-28,11:00:00,Morning,CBC,Canada promotes recruitment of transgender troops as Donald Trump imposes military ban,neutral,0.0,0.158366,0.161597,0.211045,0.636222,0.064322,0,1,0
-627,2017-07-28,11:00:00,Morning,CBC,'You failed': Missing and murdered inquiry commissioners confronted at AFN meeting,negative,-0.927449,0.555255,0.119545,0.215479,0.043743,0.054508,0,0,0
-628,2017-07-28,11:00:00,Morning,CBC,U.S. army medic who saved Omar Khadr's life calls $10.5M settlement the 'smart path',neutral,0.0,0.16247,0.035233,0.047247,0.019197,0.530737,0,0,0
-629,2017-07-28,11:00:00,Morning,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
-630,2017-07-28,11:00:00,Morning,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
-631,2017-07-28,11:00:00,Morning,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
-632,2017-07-28,11:00:00,Morning,CBC,Shorter routes sought as rate of postal worker injuries rises,neutral,0.0,0.519224,0.072426,0.105767,0.15849,0.059688,0,0,0
-633,2017-07-28,11:00:00,Morning,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
-634,2017-07-28,11:00:00,Morning,CBC,Canada's endangered wild ginseng under threat from poachers ,negative,-0.642091,0.120474,0.899381,0.048459,0.096998,0.025308,0,0,0
-635,2017-07-28,11:00:00,Morning,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
-656,2017-07-29,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
-657,2017-07-29,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
-658,2017-07-29,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
-659,2017-07-29,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
-660,2017-07-29,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
-661,2017-07-29,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
-662,2017-07-29,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
-663,2017-07-29,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
-664,2017-07-29,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
-665,2017-07-29,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
-666,2017-07-29,11:00:00,Morning,CBC,"Time for fighting has passed, Trudeau says ahead of meeting with Manitoba premier",positive,0.501106,0.268979,0.018683,0.054316,0.018237,0.414349,0,0,1
-667,2017-07-29,11:00:00,Morning,CBC,First Nations leaders reject call for MMIWG commissioners to step down,negative,-0.699046,0.498318,0.060376,0.275776,0.278616,0.045738,0,0,0
-668,2017-07-29,11:00:00,Morning,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
-669,2017-07-29,11:00:00,Morning,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
-670,2017-07-29,11:00:00,Morning,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
-671,2017-07-29,11:00:00,Morning,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
-692,2017-07-30,11:00:00,Morning,CBC,Trudeau urges Canadians to donate to the Red Cross at B.C. wildfire fundraiser,neutral,0.0,0.085009,0.158048,0.090016,0.204525,0.264754,0,0,1
-693,2017-07-30,11:00:00,Morning,CBC,Omnitrax must repair Churchill rail line: Justin Trudeau,neutral,0.0,0.180299,0.060687,0.215334,0.196285,0.076985,0,0,1
-694,2017-07-30,11:00:00,Morning,CBC,Ottawa ready to review Saudi arms deals amid crackdown,negative,-0.670038,0.084464,0.186396,0.059366,0.044528,0.342573,0,0,0
-695,2017-07-30,11:00:00,Morning,CBC,"Christy Clark, a polarizing premier, leaves the political arena with an uncertain legacy",negative,-0.331435,0.48954,0.074548,0.177246,0.147871,0.0631,0,0,0
-696,2017-07-30,11:00:00,Morning,CBC,"Warship design competition on track, Public Works officials say",neutral,0.0,0.078096,0.22056,0.246226,0.196566,0.376823,0,0,0
-697,2017-07-30,11:00:00,Morning,CBC,Christy Clark resigns as leader of B.C. Liberal Party,neutral,0.0,0.056883,0.163851,0.407384,0.571819,0.062373,0,0,0
-698,2017-07-30,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
-699,2017-07-30,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
-700,2017-07-30,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
-701,2017-07-30,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
-702,2017-07-30,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
-703,2017-07-30,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
-704,2017-07-30,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
-705,2017-07-30,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
-706,2017-07-30,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
-707,2017-07-30,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
-728,2017-07-31,11:00:00,Morning,CBC,Trudeau urges Canadians to donate to the Red Cross at B.C. wildfire fundraiser,neutral,0.0,0.085009,0.158048,0.090016,0.204525,0.264754,0,0,1
-729,2017-07-31,11:00:00,Morning,CBC,Omnitrax must repair Churchill rail line: Justin Trudeau,neutral,0.0,0.180299,0.060687,0.215334,0.196285,0.076985,0,0,1
-730,2017-07-31,11:00:00,Morning,CBC,Ottawa ready to review Saudi arms deals amid crackdown,negative,-0.670038,0.084464,0.186396,0.059366,0.044528,0.342573,0,0,0
-731,2017-07-31,11:00:00,Morning,CBC,"Christy Clark, a polarizing premier, leaves the political arena with an uncertain legacy",negative,-0.331435,0.48954,0.074548,0.177246,0.147871,0.0631,0,0,0
-732,2017-07-31,11:00:00,Morning,CBC,"Warship design competition on track, Public Works officials say",neutral,0.0,0.078096,0.22056,0.246226,0.196566,0.376823,0,0,0
-733,2017-07-31,11:00:00,Morning,CBC,Christy Clark resigns as leader of B.C. Liberal Party,neutral,0.0,0.056883,0.163851,0.407384,0.571819,0.062373,0,0,0
-734,2017-07-31,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
-735,2017-07-31,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
-736,2017-07-31,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
-737,2017-07-31,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
-738,2017-07-31,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
-739,2017-07-31,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
-740,2017-07-31,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
-741,2017-07-31,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
-742,2017-07-31,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
-743,2017-07-31,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
+0,2017-07-11,11:00:00,Morning,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
+1,2017-07-11,11:00:00,Morning,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
+2,2017-07-11,11:00:00,Morning,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
+3,2017-07-11,11:00:00,Morning,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
+4,2017-07-11,11:00:00,Morning,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
+5,2017-07-11,11:00:00,Morning,CBC,"After years of missteps, Canadian military officials hope procurement now on track",neutral,0.0,0.106229,0.27531,0.061647,0.517914,0.180405,0,0,0
+6,2017-07-11,11:00:00,Morning,CBC,Poll Tracker: Federal poll averages and seat projections,neutral,0.0,0.09698,0.103342,0.067037,0.064531,0.020892,0,0,0
+7,2017-07-11,11:00:00,Morning,CBC,"On Khadr, Trudeau says Charter protects all Canadians 'even when it is uncomfortable'",negative,-0.311165,0.297915,0.052198,0.071755,0.541809,0.123047,0,0,1
+8,2017-07-11,11:00:00,Morning,CBC,"Amazon Prime does more for northern food security than federal subsidies, say Iqaluit residents",neutral,0.0,0.275872,0.129643,0.072001,0.366348,0.141894,0,0,0
+9,2017-07-11,11:00:00,Morning,CBC,"Canada, EU to provisionally apply CETA in September",neutral,0.0,0.292045,0.112958,0.027647,0.017861,0.054082,0,0,0
+10,2017-07-11,11:00:00,Morning,CBC,G20 leaders steel themselves for Trump's next trade move,neutral,0.0,0.262031,0.147694,0.178032,0.191246,0.256598,0,1,0
+11,2017-07-11,11:00:00,Morning,CBC,"Liberals defend and Tories attack Omar Khadr payout, both citing principles",neutral,0.0,0.091526,0.077817,0.260603,0.776016,0.007655,0,0,0
+12,2017-07-11,11:00:00,Morning,CBC,G20 leaders reaffirm support of Paris climate change agreement without U.S.,neutral,0.0,0.178425,0.175091,0.078784,0.209567,0.126822,0,0,0
+13,2017-07-11,11:00:00,Morning,CBC,"Sask. sends aircraft, firefighters to help fight B.C. wildfires",neutral,0.0,0.133518,0.138343,0.124503,0.032942,0.061517,0,0,0
+14,2017-07-11,11:00:00,Morning,CBC,Canada pledges $20M for women's entrepreneurship program,positive,0.574585,0.112963,0.078782,0.023798,0.139346,0.453671,0,0,0
+15,2017-07-11,11:00:00,Morning,CBC,El Salvador woman at the heart of legal challenge to Safe Third Country Agreement,positive,0.460505,0.191086,0.210511,0.020324,0.08814,0.4193,0,0,0
+16,2017-07-12,11:00:00,Morning,CBC,Manitoba MMIWG families want national inquiry commissioners replaced,neutral,0.0,0.346292,0.032762,0.117056,0.266701,0.153218,0,0,0
+17,2017-07-12,11:00:00,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+18,2017-07-12,11:00:00,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+19,2017-07-12,11:00:00,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+20,2017-07-12,11:00:00,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+21,2017-07-12,11:00:00,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+22,2017-07-12,11:00:00,Morning,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+23,2017-07-12,11:00:00,Morning,CBC,Justin Trudeau will attend Calgary Stampede after initially bucking event,negative,-0.406753,0.360044,0.018504,0.192251,0.263458,0.086917,0,0,1
+24,2017-07-12,11:00:00,Morning,CBC,Former U.S. special forces soldier calls Justin Trudeau an Omar Khadr 'groupie',neutral,0.0,0.352859,0.154207,0.217304,0.328986,0.036987,0,0,1
+25,2017-07-12,11:00:00,Morning,CBC,Poloz may tap the interest-rate brakes as a promise and a warning: Don Pittis,negative,-0.757098,0.084747,0.379089,0.056584,0.115494,0.012166,0,0,0
+26,2017-07-12,11:00:00,Morning,CBC,"Majority of Canadians oppose Omar Khadr settlement, poll suggests",neutral,0.0,0.117541,0.024169,0.095783,0.282128,0.030708,0,0,0
+27,2017-07-12,11:00:00,Morning,CBC,Catholic bishops say Trudeau playing politics with abortion in foreign aid,neutral,0.0,0.205497,0.034159,0.032673,0.531062,0.014032,0,0,1
+28,2017-07-12,11:00:00,Morning,CBC,'It was the happiest moment': Asylum seekers who took risky Central American corridor cross into Canada,negative,-0.649201,0.099288,0.107516,0.039436,0.035638,0.599312,0,0,0
+29,2017-07-12,11:00:00,Morning,CBC,Relatives of slain U.S. soldier want urgent freeze on Omar Khadr's assets,negative,-0.419543,0.283762,0.169862,0.25706,0.121771,0.014452,0,0,0
+30,2017-07-12,11:00:00,Morning,CBC,G19 + 1: Division among G20 leaders and what comes next,neutral,0.0,0.207265,0.122516,0.087352,0.113952,0.1854,0,0,0
+31,2017-07-12,11:00:00,Morning,CBC,"Parks Canada preparing for busy Canada 150 season, including patrons behaving badly",negative,-0.395837,0.36251,0.147319,0.235188,0.243511,0.034899,0,0,0
+32,2017-07-13,11:00:01,Morning,CBC,Former astronaut Julie Payette to be Canada's next governor general,neutral,0.0,0.263381,0.122293,0.109868,0.193667,0.190061,0,0,0
+33,2017-07-13,11:00:01,Morning,CBC,3 reasons the interest rate hike is good for the Trudeau Liberals,positive,0.747059,0.157146,0.016846,0.074209,0.308843,0.469893,0,0,1
+34,2017-07-13,11:00:01,Morning,CBC,Omar Khadr fights attempt by soldier's widow to freeze his assets,negative,-0.413576,0.592513,0.242899,0.154527,0.127652,0.00573,0,0,0
+35,2017-07-13,11:00:01,Morning,CBC,"Watch Power & Politics for July 12, 2017",positive,0.574348,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+36,2017-07-13,11:00:01,Morning,CBC,What 3 legal minds think about the Omar Khadr settlement,neutral,0.0,0.140624,0.168885,0.161364,0.062307,0.256602,0,0,0
+37,2017-07-13,11:00:01,Morning,CBC,Bank of Canada raises interest rate for 1st time in 7 years to 0.75%,negative,-0.526206,0.249858,0.050646,0.058354,0.089373,0.275828,0,0,0
+38,2017-07-13,11:00:01,Morning,CBC,Canadian military exchange pilots flew in combat: documents,neutral,0.0,0.121176,0.133597,0.13757,0.293365,0.033898,0,0,0
+39,2017-07-13,11:00:01,Morning,CBC,Don't drain the swamp: report says wetlands help avert flood damage,negative,-0.776631,0.28728,0.323545,0.221157,0.065788,0.005999,0,0,0
+40,2017-07-13,11:00:01,Morning,CBC,"Manitoba families want national MMIWG inquiry commissioners replaced, regional inquiry created",neutral,0.0,0.183581,0.029994,0.096102,0.16095,0.273637,0,0,0
+41,2017-07-13,11:00:01,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+42,2017-07-13,11:00:01,Morning,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
+43,2017-07-13,11:00:01,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+44,2017-07-13,11:00:01,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+45,2017-07-13,11:00:01,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+46,2017-07-13,11:00:01,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+47,2017-07-13,11:00:01,Morning,CBC,"Watch Power & Politics for July 11, 2017",positive,0.608044,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+48,2017-07-14,11:00:01,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+49,2017-07-14,11:00:01,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+50,2017-07-14,11:00:01,Morning,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
+51,2017-07-14,11:00:01,Morning,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
+52,2017-07-14,11:00:01,Morning,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
+53,2017-07-14,11:00:01,Morning,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
+54,2017-07-14,11:00:01,Morning,CBC,"Jagmeet Singh tops NDP leadership endorsements, but front-runner status yet to be confirmed",neutral,0.0,0.019663,0.158677,0.023705,0.035009,0.061,0,0,0
+55,2017-07-14,11:00:01,Morning,CBC,Judge rejects request to freeze Omar Khadr's assets,neutral,0.0,0.59823,0.080509,0.201414,0.09211,0.006336,0,0,0
+56,2017-07-14,11:00:01,Morning,CBC,Trudeau looks to court U.S. governors as NAFTA talks loom,neutral,0.0,0.1444,0.139614,0.172943,0.189868,0.08826,0,0,1
+57,2017-07-14,11:00:01,Morning,CBC,Wynne heads to U.S. at 'critical moment' in trade relationship,neutral,0.0,0.430716,0.052141,0.072483,0.027459,0.390924,0,0,0
+58,2017-07-14,11:00:01,Morning,CBC,'What is going on?': Family members want to know what's happening to MMIWG inquiry,neutral,0.0,0.32946,0.109761,0.119055,0.045099,0.045933,0,0,0
+59,2017-07-14,11:00:01,Morning,CBC,"Montreal nixes sovereignist group's plan to mark Charles de Gaulle's 'Vive le Quebec libre!"" speech",positive,0.688072,,,,,,0,0,0
+60,2017-07-14,11:00:01,Morning,CBC,"Carbon pricing, pensions addressed by NDP leadership candidates at Saskatoon debate",neutral,0.0,0.216514,0.19266,0.06359,0.252934,0.009223,0,0,0
+61,2017-07-14,11:00:01,Morning,CBC,Missing and murdered inquiry to forge ahead despite resignation of key commissioner,negative,-0.646526,0.626424,0.080227,0.276212,0.11458,0.053483,0,0,0
+62,2017-07-14,11:00:01,Morning,CBC,Trudeau to hold formal bilateral meeting with U.S. VP Mike Pence,neutral,0.0,0.173057,0.033979,0.085109,0.035057,0.090363,0,0,1
+63,2017-07-14,11:00:01,Morning,CBC,"Canada stumps up cash for family planning in developing world, but won't criticize Trump for stepping back",negative,-0.570372,0.312388,0.047231,0.050086,0.110045,0.322439,0,1,0
+64,2017-07-15,11:00:01,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+65,2017-07-15,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+66,2017-07-15,11:00:01,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+67,2017-07-15,11:00:01,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+68,2017-07-15,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+69,2017-07-15,11:00:01,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+70,2017-07-15,11:00:01,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+71,2017-07-15,11:00:01,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+72,2017-07-15,11:00:01,Morning,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
+73,2017-07-15,11:00:01,Morning,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
+74,2017-07-15,11:00:01,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+75,2017-07-15,11:00:01,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+76,2017-07-15,11:00:01,Morning,CBC,Federal government to downsize failing Canada.ca project,negative,-0.68854,0.358195,0.1921,0.320627,0.280419,0.018185,0,0,0
+77,2017-07-15,11:00:01,Morning,CBC,'Unquestionably qualified': Ex-astronaut Julie Payette formally introduced as Canada's next GG,positive,0.828243,0.117441,0.05991,0.142997,0.176512,0.093406,0,0,0
+78,2017-07-15,11:00:01,Morning,CBC,"PM sidesteps calls to reboot inquiry into missing, murdered Indigenous women and girls",negative,-0.923355,0.426875,0.083409,0.143676,0.565027,0.004196,0,0,0
+79,2017-07-15,11:00:01,Morning,CBC,The Pollcast: The story of Canada's first elections,neutral,0.0,0.326981,0.166913,0.19098,0.246722,0.136875,0,0,0
+80,2017-07-16,11:00:00,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+81,2017-07-16,11:00:00,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+82,2017-07-16,11:00:00,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+83,2017-07-16,11:00:00,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+84,2017-07-16,11:00:00,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+85,2017-07-16,11:00:00,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+86,2017-07-16,11:00:00,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+87,2017-07-16,11:00:00,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+88,2017-07-16,11:00:00,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+89,2017-07-16,11:00:00,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+90,2017-07-16,11:00:00,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+91,2017-07-16,11:00:00,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+92,2017-07-16,11:00:00,Morning,CBC,"Families of missing, murdered Indigenous women split over how inquiry should proceed",negative,-0.826871,0.439982,0.089476,0.154506,0.53367,0.009358,0,0,0
+93,2017-07-16,11:00:00,Morning,CBC,Omar Khadr's legal battles could last for years,negative,-0.664539,0.512663,0.196273,0.136252,0.025526,0.110101,0,0,0
+94,2017-07-16,11:00:00,Morning,CBC,Trump promises to tax steel imports as Trudeau heads to American governors gathering,neutral,0.0,0.203525,0.059992,0.056371,0.357102,0.0411,0,1,1
+95,2017-07-16,11:00:00,Morning,CBC,"Watch Power & Politics for July 13, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+96,2017-07-17,11:00:01,Morning,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
+97,2017-07-17,11:00:01,Morning,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
+98,2017-07-17,11:00:01,Morning,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
+99,2017-07-17,11:00:01,Morning,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
+100,2017-07-17,11:00:01,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+101,2017-07-17,11:00:01,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+102,2017-07-17,11:00:01,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+103,2017-07-17,11:00:01,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+104,2017-07-17,11:00:01,Morning,CBC,"Watch Power & Politics for July 14, 2017",positive,0.564077,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+105,2017-07-17,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+106,2017-07-17,11:00:01,Morning,CBC,Transport Canada's Arctic drone project delayed 2 years by arms-control rules,neutral,0.0,0.476449,0.135709,0.137212,0.177228,0.113107,0,0,0
+107,2017-07-17,11:00:01,Morning,CBC,How Julie Payette became the next governor general,neutral,0.0,0.232101,0.168664,0.16223,0.06065,0.261519,0,0,0
+108,2017-07-17,11:00:01,Morning,CBC,Candidates from the North invited to apply for Supreme Court seat,neutral,0.0,0.325001,0.087753,0.034552,0.223367,0.061287,0,0,0
+109,2017-07-17,11:00:01,Morning,CBC,"$35M lawsuit alleges racist, sexist and homophobic discrimination at CSIS",negative,-0.854225,0.156797,0.042639,0.232265,0.381706,0.007398,0,0,0
+110,2017-07-17,11:00:01,Morning,CBC,Why one U.S. governor says he'll be Canada's ally if NAFTA talks go sideways,negative,-0.796698,0.376037,0.188001,0.178607,0.127506,0.103834,0,0,0
+111,2017-07-17,11:00:01,Morning,CBC,Trudeau says fighting Khadr was a losing proposition and could have cost taxpayers up to $40M,negative,-0.71145,0.439242,0.160125,0.384699,0.124657,0.010831,0,0,1
+112,2017-07-18,11:00:01,Morning,CBC,Trade talks with Trump and the race for new pot rules top agenda for premiers' meeting,neutral,0.0,0.161414,0.066657,0.097849,0.107877,0.567801,0,1,0
+113,2017-07-18,11:00:01,Morning,CBC,"Graves of 45,000 veterans in disrepair due to funding shortfall: audit",negative,-0.6872,0.297842,0.151168,0.066906,0.086791,0.1402,0,0,0
+114,2017-07-18,11:00:01,Morning,CBC,Canada funds Europe-based missile defence program but won't join one at home,negative,-0.64914,0.090154,0.07448,0.02544,0.358254,0.037264,0,0,0
+115,2017-07-18,11:00:01,Morning,CBC,"Federal government looks to shore up seniors benefits program to prevent fraud, mistakes",negative,-0.586003,0.305185,0.228524,0.265485,0.070872,0.036313,0,0,0
+116,2017-07-18,11:00:01,Morning,CBC,'Missed opportunity': B.C.'s John Horgan will skip premiers meeting in Alberta,negative,-0.895449,0.089726,0.018607,0.045242,0.024617,0.445381,0,0,0
+117,2017-07-18,11:00:01,Morning,CBC,Renaming Ryerson University is a poor way to deal with Canada's ugly past,negative,-0.798674,0.577856,0.220427,0.148331,0.293383,0.004355,0,0,0
+118,2017-07-18,11:00:01,Morning,CBC,5 things to watch as U.S. reveals its NAFTA objectives,neutral,0.0,0.303352,0.284137,0.038304,0.032106,0.416673,0,0,0
+119,2017-07-18,11:00:01,Morning,CBC,Marilyn Poitras on why she resigned as MMIWG commissioner and her hopes for change,neutral,0.0,0.099072,0.192895,0.113518,0.071008,0.165226,0,0,0
+120,2017-07-18,11:00:01,Morning,CBC,Military veterans still struggle to find meaningful private sector work,negative,-0.792157,0.528994,0.41437,0.069656,0.17646,0.022746,0,0,0
+121,2017-07-18,11:00:01,Morning,CBC,Freeland 'cautiously optimistic' after hearing Pence's 'win-win-win' comment,positive,0.947993,0.034714,0.061183,0.043354,0.050145,0.808107,0,0,0
+122,2017-07-18,11:00:01,Morning,CBC," 'We're still human beings,' says inmate as trial continues on solitary confinement",negative,-0.675067,0.230206,0.110162,0.11183,0.361345,0.073529,0,0,0
+123,2017-07-18,11:00:01,Morning,CBC,Love and loathing as Trudeau touches down for Calgary Stampede,negative,-0.63415,0.006951,0.008086,0.022637,0.025644,0.899593,0,0,1
+124,2017-07-18,11:00:01,Morning,CBC,Trudeau stresses close trading relationships in speech to U.S. governors,negative,-0.418393,0.447551,0.350419,0.27126,0.020224,0.104019,0,0,1
+125,2017-07-18,11:00:01,Morning,CBC,"Veil of secrecy prevents CSIS employees from speaking out, say ex-officers",negative,-0.555341,0.305958,0.061744,0.347231,0.326436,0.010922,0,0,0
+126,2017-07-18,11:00:01,Morning,CBC,Trudeau says he did not reach out to soldier's widow in wake of Khadr payout,negative,-0.711505,0.668367,0.238007,0.157602,0.086895,0.013068,0,0,1
+127,2017-07-18,11:00:01,Morning,CBC,Indigenous leaders to boycott Monday's meeting with premiers,negative,-0.394061,0.162803,0.059289,0.183929,0.352588,0.28332,0,0,0
+128,2017-07-19,11:00:00,Morning,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
+129,2017-07-19,11:00:00,Morning,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
+130,2017-07-19,11:00:00,Morning,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+131,2017-07-19,11:00:00,Morning,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
+132,2017-07-19,11:00:00,Morning,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
+133,2017-07-19,11:00:00,Morning,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
+134,2017-07-19,11:00:00,Morning,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
+135,2017-07-19,11:00:00,Morning,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
+136,2017-07-19,11:00:00,Morning,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
+137,2017-07-19,11:00:00,Morning,CBC,"After Trump's tough talk, NAFTA proposals look more like light reno than demolition",negative,-0.494125,0.658233,0.241549,0.097871,0.012548,0.05769,0,1,0
+138,2017-07-19,11:00:00,Morning,CBC,Which premiers are secure and which ones are worried at premiers conference,neutral,0.0,0.210911,0.582292,0.094196,0.084756,0.040597,0,0,0
+139,2017-07-19,11:00:00,Morning,CBC,"Trump administration reveals goals ahead of NAFTA talks with Canada, Mexico",neutral,0.0,0.230649,0.150127,0.020018,0.020521,0.477094,0,1,0
+140,2017-07-19,11:00:00,Morning,CBC,Indigenous leaders boycott 'segregated' premiers meeting in Edmonton,negative,-0.488461,0.136097,0.051575,0.169073,0.4075,0.188565,0,0,0
+141,2017-07-19,11:00:00,Morning,CBC,B.C. government readies for historic transition amid wildfire crisis,negative,-0.643975,0.208818,0.372809,0.181112,0.138248,0.069953,0,0,0
+142,2017-07-19,11:00:00,Morning,CBC,'See you there!' Trudeau to march in Halifax Pride parade Saturday,positive,0.434355,0.058989,0.024034,0.065403,0.117006,0.65451,0,0,1
+143,2017-07-19,11:00:00,Morning,CBC,Australian senator resigns after learning she's also Canadian,neutral,0.0,0.127931,0.129712,0.224233,0.252067,0.264657,0,0,0
+144,2017-07-20,11:00:00,Morning,CBC,"Andrew Scheer to name Lisa Raitt deputy leader, announce 'gender diverse' House leadership team Thursday",neutral,0.0,0.050262,0.083626,0.08048,0.080787,0.156196,0,0,0
+145,2017-07-20,11:00:00,Morning,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.236808,0.073528,0.102368,0.103356,0.185719,0,1,0
+146,2017-07-20,11:00:00,Morning,CBC,"Watch Power & Politics for July 19, 2017",neutral,0.0,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+147,2017-07-20,11:00:00,Morning,CBC,Health trouble brought on by mould exposure ends sailor's career,neutral,0.0,0.180829,0.139996,0.181365,0.086777,0.425415,0,0,0
+148,2017-07-20,11:00:00,Morning,CBC,Ottawa hires consultants to advise on airport sell-offs,neutral,0.0,0.033459,0.040474,0.111738,0.055638,0.009949,0,0,0
+149,2017-07-20,11:00:00,Morning,CBC,"Government inaction to blame for unequal access to criminal pardons, lawyers claim",negative,-0.915273,0.285406,0.04427,0.323019,0.543489,0.001586,0,0,0
+150,2017-07-20,11:00:00,Morning,CBC,Buzz kill? Brian Pallister pushes premiers to delay legalization of pot by 1 year,negative,-0.662332,0.603546,0.06455,0.391388,0.123602,0.004173,0,0,0
+151,2017-07-20,11:00:00,Morning,CBC,Finance Minister Bill Morneau proposes tax changes to close loopholes for wealthy,neutral,0.0,0.194673,0.06383,0.107971,0.136226,0.088282,0,0,0
+152,2017-07-20,11:00:00,Morning,CBC,"Watch Power & Politics for July 18, 2017",positive,0.596036,0.501142,0.044394,0.112832,0.1756,0.145223,0,0,0
+153,2017-07-20,11:00:00,Morning,CBC,Measures protecting Canadian dairy industry under fire at U.S. NAFTA hearing,neutral,0.0,0.165238,0.06392,0.128252,0.355582,0.132746,0,0,0
+154,2017-07-20,11:00:00,Morning,CBC,Canadian retailers worry as Trump eyes duty-free threshold increase in NAFTA talks,neutral,0.0,0.107254,0.747533,0.078398,0.118187,0.025007,0,1,0
+155,2017-07-20,11:00:00,Morning,CBC,"'Reconciliation in action': Quebec Cree leaders sign governance, funding agreement with Ottawa",neutral,0.0,0.100649,0.081265,0.098493,0.223787,0.105118,0,0,0
+156,2017-07-20,11:00:00,Morning,CBC,B.C.'s new NDP government sworn into office,negative,-0.515578,0.156932,0.172164,0.304466,0.400937,0.119725,0,0,0
+157,2017-07-20,11:00:00,Morning,CBC,Canada's U.S. ambassador says there will be no rush to sign 'bad deal' in new NAFTA,negative,-0.655432,0.65741,0.195383,0.212881,0.140653,0.0171,0,0,0
+158,2017-07-20,11:00:00,Morning,CBC,'Come to CRA before we go to you': International deal designed to expose offshore tax cheats,negative,-0.816204,0.138795,0.1167,0.542498,0.210134,0.021552,0,0,0
+159,2017-07-20,11:00:00,Morning,CBC,Telecom exec Ian Scott to be next CRTC chair starting September,neutral,0.0,0.157952,0.117371,0.075167,0.068679,0.236827,0,0,0
+160,2017-07-21,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+161,2017-07-21,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+162,2017-07-21,11:00:01,Morning,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
+163,2017-07-21,11:00:01,Morning,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
+164,2017-07-21,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+165,2017-07-21,11:00:01,Morning,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
+166,2017-07-21,11:00:01,Morning,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
+167,2017-07-21,11:00:01,Morning,CBC,Julie Payette's vetting for governor general questioned amid 'disquieting' revelations,neutral,0.0,0.396841,0.122191,0.053341,0.218727,0.178324,0,0,0
+168,2017-07-21,11:00:01,Morning,CBC,Canada's high court to hear B.C. appeal in battle against big tobacco,negative,-0.624822,0.339027,0.247459,0.167842,0.138141,0.069112,0,0,0
+169,2017-07-21,11:00:01,Morning,CBC,Midweek podcast: Morneau closing the loop and B.C. (finally) gets a premier,neutral,0.0,0.235282,0.021418,0.035052,0.003306,0.681425,0,0,0
+170,2017-07-21,11:00:01,Morning,CBC,Trump's 'influential' pick for ambassador to Canada faces Senate hearing,neutral,0.0,0.212179,0.141786,0.09575,0.412352,0.05467,0,1,0
+171,2017-07-21,11:00:01,Morning,CBC,Deadline for decision on Canada Post home delivery missed as Liberals ponder way forward,negative,-0.817591,0.508887,0.229576,0.124814,0.111426,0.040041,0,0,0
+172,2017-07-21,11:00:01,Morning,CBC,Trudeau's silence on Payette's expunged assault charge shows double standard: Robyn Urback,negative,-0.587314,0.222958,0.126404,0.322813,0.549017,0.02306,0,0,1
+173,2017-07-21,11:00:01,Morning,CBC,Premiers ask for pot legalization delay if federal government can't resolve key concerns,negative,-0.765299,0.410533,0.100775,0.131522,0.045502,0.036938,0,0,0
+174,2017-07-21,11:00:01,Morning,CBC,NAFTA talks: Trump administration announces Aug. 16 start date in D.C.,neutral,0.0,0.164615,0.059925,0.106117,0.124827,0.280334,0,1,0
+175,2017-07-21,11:00:01,Morning,CBC,Governor General breaches royal protocol by touching Queen to avoid her stumbling on 'slippy' carpet,negative,-0.320181,0.131137,0.174993,0.211012,0.220224,0.199799,0,0,0
+176,2017-07-22,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+177,2017-07-22,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+178,2017-07-22,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+179,2017-07-22,11:00:01,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+180,2017-07-22,11:00:01,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+181,2017-07-22,11:00:01,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+182,2017-07-22,11:00:01,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+183,2017-07-22,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+184,2017-07-22,11:00:01,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+185,2017-07-22,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+186,2017-07-22,11:00:01,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+187,2017-07-22,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+188,2017-07-22,11:00:01,Morning,CBC,Ship that may have sunk admiral's career to be unveiled in Quebec,neutral,0.0,0.258821,0.211206,0.276297,0.149155,0.074223,0,0,0
+189,2017-07-22,11:00:01,Morning,CBC,Kelly Knight Craft promises as U.S. ambassador to further Canada relationship,neutral,0.0,0.318507,0.064629,0.042059,0.102993,0.421433,0,0,0
+190,2017-07-22,11:00:01,Morning,CBC,"Far-right Quebec group linked to vote against Muslim cemetery, says writer",neutral,0.0,0.138848,0.026485,0.270952,0.470773,0.279438,0,0,0
+191,2017-07-22,11:00:01,Morning,CBC,"Andrew Scheer names Lisa Raitt deputy leader, announces 'gender diverse' House leadership team",neutral,0.0,0.04182,0.067621,0.087095,0.155908,0.051563,0,0,0
+192,2017-07-23,11:00:01,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+193,2017-07-23,11:00:01,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+194,2017-07-23,11:00:01,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+195,2017-07-23,11:00:01,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+196,2017-07-23,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+197,2017-07-23,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+198,2017-07-23,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+199,2017-07-23,11:00:01,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+200,2017-07-23,11:00:01,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+201,2017-07-23,11:00:01,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+202,2017-07-23,11:00:01,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+203,2017-07-23,11:00:01,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+204,2017-07-23,11:00:01,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+205,2017-07-23,11:00:01,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+206,2017-07-23,11:00:01,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+207,2017-07-23,11:00:01,Morning,CBC,"Supreme Court building to get $1B rehab in 2023, well after systems risk failure",neutral,0.0,0.362541,0.567314,0.038733,0.057308,0.072105,0,0,0
+208,2017-07-24,11:00:00,Morning,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
+209,2017-07-24,11:00:00,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+210,2017-07-24,11:00:00,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+211,2017-07-24,11:00:00,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+212,2017-07-24,11:00:00,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+213,2017-07-24,11:00:00,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+214,2017-07-24,11:00:00,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+215,2017-07-24,11:00:00,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+216,2017-07-24,11:00:00,Morning,CBC,"Pierre Poilievre's golf shirt a faux pas, elections watchdog rules",positive,0.436391,,,,,,0,0,0
+217,2017-07-24,11:00:00,Morning,CBC,'These are our children': Sexual abuse and suicide rate among Indigenous youth,negative,-0.60087,0.666159,0.105401,0.157855,0.302244,0.007464,0,0,0
+218,2017-07-24,11:00:00,Morning,CBC,Judicial watchdog finds no problem with judges attending sponsored cocktail parties,neutral,0.0,0.265863,0.05113,0.163771,0.097352,0.340228,0,0,0
+219,2017-07-24,11:00:00,Morning,CBC,Trudeau defends his choice for governor general amid revelations about her past,negative,-0.430983,0.29668,0.102646,0.143447,0.288097,0.213951,0,0,1
+220,2017-07-24,11:00:00,Morning,CBC,"Watch Power & Politics for July 20, 2017",positive,0.537161,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+221,2017-07-24,11:00:00,Morning,CBC,Progressive Conservatives begin voting on proposed unity merger with Wildrose,neutral,0.0,0.154442,0.167875,0.18708,0.294974,0.274371,0,0,0
+222,2017-07-24,11:00:00,Morning,CBC,The Pollcast: What the Wildrose-PC merger vote means for Alberta politics,neutral,0.0,0.274745,0.020316,0.231736,0.383589,0.090125,0,0,0
+223,2017-07-24,11:00:00,Morning,CBC,"Anger makes people more economically conservative, research suggests",negative,-0.544451,0.20598,0.253195,0.361163,0.225286,0.16026,0,0,0
+224,2017-07-25,11:00:01,Morning,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
+225,2017-07-25,11:00:01,Morning,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
+226,2017-07-25,11:00:01,Morning,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
+227,2017-07-25,11:00:01,Morning,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
+228,2017-07-25,11:00:01,Morning,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
+229,2017-07-25,11:00:01,Morning,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
+230,2017-07-25,11:00:01,Morning,CBC,Ontario announces new mental health workers for troubled Pikangikum First Nation,neutral,0.0,0.373044,0.031057,0.142109,0.064258,0.375186,0,0,0
+231,2017-07-25,11:00:01,Morning,CBC,"Trudeau 'not working hard enough' on NAFTA file, says Scheer",negative,-0.7758,0.734158,0.191301,0.062282,0.03988,0.075634,0,0,1
+232,2017-07-25,11:00:01,Morning,CBC,Wildrose and PC members approve unite-the-right deal with 95% voting Yes,positive,0.579508,0.145339,0.069293,0.140261,0.06185,0.103479,0,0,0
+233,2017-07-25,11:00:01,Morning,CBC,Thousands free to return home as some B.C. wildfire evacuation orders downgraded,negative,-0.6572,0.233083,0.062109,0.104154,0.056573,0.159121,0,0,0
+234,2017-07-25,11:00:01,Morning,CBC,Illegal border crossings by asylum seekers decline in Manitoba but spike in Quebec,negative,-0.744114,0.193741,0.131668,0.231238,0.155623,0.141579,0,0,0
+235,2017-07-25,11:00:01,Morning,CBC,"In historic 1st, transgender inmate wins transfer to women's prison",neutral,0.0,0.275068,0.050379,0.171689,0.331787,0.187426,0,0,0
+236,2017-07-25,11:00:01,Morning,CBC,Many Indigenous families not applying for Canada child benefit: documents,neutral,0.0,0.05856,0.049126,0.019824,0.133929,0.224482,0,0,0
+237,2017-07-25,11:00:01,Morning,CBC,"Watch Power & Politics for July 21, 2017",positive,0.524067,0.340674,0.064217,0.124518,0.148697,0.198403,0,0,0
+238,2017-07-25,11:00:01,Morning,CBC,Khadr's war crimes appeal could hinge on bin Laden propagandist's case,negative,-0.927592,0.341089,0.094213,0.225743,0.440834,0.050466,0,0,0
+239,2017-07-25,11:00:01,Morning,CBC,Scheer says anti-Khadr campaign in U.S. media is fair game as NDP cry hypocrisy,neutral,0.0,0.704247,0.084772,0.113646,0.379756,0.016175,0,0,0
+240,2017-07-26,11:00:01,Morning,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
+241,2017-07-26,11:00:01,Morning,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
+242,2017-07-26,11:00:01,Morning,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
+243,2017-07-26,11:00:01,Morning,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
+244,2017-07-26,11:00:01,Morning,CBC,Trans Mountain pipeline gets Indigenous-led oversight committee,neutral,0.0,0.194529,0.147198,0.168332,0.119394,0.224307,0,0,0
+245,2017-07-26,11:00:01,Morning,CBC,"Government, Indigenous leaders herald health agreement that will dismantle 'colonial' system",neutral,0.0,0.08406,0.107559,0.103387,0.1875,0.354197,0,0,0
+246,2017-07-26,11:00:01,Morning,CBC,Conservative politicians flock to U.S. media to whip up ignorance and bile: Neil Macdonald,negative,-0.746994,0.321563,0.193553,0.433514,0.410394,0.008327,0,0,0
+247,2017-07-26,11:00:01,Morning,CBC,Canadian defence deal with Azerbaijan raises new questions about arms export controls,neutral,0.0,0.151276,0.154207,0.372229,0.170427,0.164228,0,0,0
+248,2017-07-26,11:00:01,Morning,CBC,"Reports of child pornography, sexual crimes against minors on the rise",negative,-0.869873,0.102051,0.068218,0.272718,0.722604,0.027719,0,0,0
+249,2017-07-26,11:00:01,Morning,CBC,"Pot charges drop in 2016, Statistics Canada reports",negative,-0.745176,0.264055,0.109235,0.135222,0.094174,0.02319,0,0,0
+250,2017-07-26,11:00:01,Morning,CBC,Pot charges rise in Montreal despite downward trend in rest of Canada,negative,-0.824517,0.426728,0.038044,0.141633,0.326101,0.126704,0,0,0
+251,2017-07-26,11:00:01,Morning,CBC,"Canada trails G7 in protecting land, parks advocates say",neutral,0.0,0.353421,0.059827,0.035737,0.302969,0.294152,0,0,0
+252,2017-07-26,11:00:01,Morning,CBC,'Battle for the centre' emerges in Alberta as unite-the-right vote succeeds ,positive,0.858155,0.213095,0.080184,0.226814,0.081732,0.40125,0,0,0
+253,2017-07-26,11:00:01,Morning,CBC,Canada wasn't — and isn't — ready for an Indigenous governor general,neutral,0.0,0.183346,0.089312,0.099651,0.109406,0.183204,0,0,0
+254,2017-07-26,11:00:01,Morning,CBC,"Despite 2015 defeat, NDP in better spot now than during most of party's past leadership races",neutral,0.0,0.338627,0.191674,0.078327,0.072877,0.401985,0,0,0
+255,2017-07-26,11:00:01,Morning,CBC,Intellectual property could be key as Canada and U.S. compete for frigate-building bids,neutral,0.0,0.10138,0.142341,0.085117,0.02946,0.473782,0,0,0
+256,2017-07-27,11:00:01,Morning,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
+257,2017-07-27,11:00:01,Morning,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
+258,2017-07-27,11:00:01,Morning,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
+259,2017-07-27,11:00:01,Morning,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
+260,2017-07-27,11:00:01,Morning,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
+261,2017-07-27,11:00:01,Morning,CBC,Bid 'irregularity' takes air out of Ottawa's aim to buy 350 inflatable boats for military,neutral,0.0,0.103101,0.313367,0.099604,0.213964,0.110891,0,0,0
+262,2017-07-27,11:00:01,Morning,CBC,Ottawa rejecting many expense claims from public servants with Phoenix payroll problems,negative,-0.683106,0.544357,0.126755,0.40683,0.15211,0.008625,0,0,0
+263,2017-07-27,11:00:01,Morning,CBC,Deal to share passenger info between EU and Canada struck down on privacy concerns,negative,-0.868101,0.226365,0.292072,0.026194,0.026836,0.100878,0,0,0
+264,2017-07-27,11:00:01,Morning,CBC,Supreme Court to issue landmark rulings on Indigenous relationship with energy sector,neutral,0.0,0.292713,0.101875,0.159994,0.261864,0.186515,0,0,0
+265,2017-07-27,11:00:01,Morning,CBC,"NAFTA talks: U.S. proposal for cross-border data storage at odds with B.C., N.S. law",neutral,0.0,0.164294,0.337353,0.070792,0.03625,0.293677,0,0,0
+266,2017-07-27,11:00:01,Morning,CBC,"'Don't be fooled,' says chief skeptical of Ottawa on 1st day of AFN meetings",negative,-0.718507,0.373909,0.183564,0.154376,0.033812,0.327551,0,0,0
+267,2017-07-27,11:00:01,Morning,CBC,"Changes coming to First Nations funding, feds tell AFN",negative,-0.405765,0.13278,0.018675,0.240399,0.270358,0.109746,0,0,0
+268,2017-07-27,11:00:01,Morning,CBC,"Immigration detention system is legal, though not always applied perfectly: judge",neutral,0.0,0.106099,0.036772,0.093339,0.037216,0.370101,0,0,0
+269,2017-07-27,11:00:01,Morning,CBC,"Pacific NorthWest LNG project in Port Edward, B.C., no longer proceeding",neutral,0.0,0.092426,0.100917,0.097696,0.076355,0.401598,0,0,0
+270,2017-07-27,11:00:01,Morning,CBC,Why Alberta's united right could be less than sum of its parts,neutral,0.0,0.336714,0.139959,0.093101,0.050157,0.260426,0,0,0
+271,2017-07-27,11:00:01,Morning,CBC,Trudeau and Horgan sidestep pipeline talks in 1st meeting,negative,-0.337588,0.208933,0.099772,0.080924,0.017871,0.289517,0,0,1
+272,2017-07-28,11:00:00,Morning,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
+273,2017-07-28,11:00:00,Morning,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
+274,2017-07-28,11:00:00,Morning,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
+275,2017-07-28,11:00:00,Morning,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
+276,2017-07-28,11:00:00,Morning,CBC,How can we trust CSIS to protect our rights when it's accused of violating those of its employees?,negative,-0.820108,0.077057,0.00672,0.482091,0.422693,0.067443,0,0,0
+277,2017-07-28,11:00:00,Morning,CBC,What these transgender veterans think about Trump's U.S. trans troop ban,neutral,0.0,0.29135,0.104456,0.295479,0.461637,0.082002,0,1,0
+278,2017-07-28,11:00:00,Morning,CBC,Canada promotes recruitment of transgender troops as Donald Trump imposes military ban,neutral,0.0,0.158366,0.161597,0.211045,0.636222,0.064322,0,1,0
+279,2017-07-28,11:00:00,Morning,CBC,'You failed': Missing and murdered inquiry commissioners confronted at AFN meeting,negative,-0.927449,0.555255,0.119545,0.215479,0.043743,0.054508,0,0,0
+280,2017-07-28,11:00:00,Morning,CBC,U.S. army medic who saved Omar Khadr's life calls $10.5M settlement the 'smart path',neutral,0.0,0.16247,0.035233,0.047247,0.019197,0.530737,0,0,0
+281,2017-07-28,11:00:00,Morning,CBC,Canada to beef up police presence in Iraq after fall of Mosul,negative,-0.563645,0.128111,0.373109,0.124304,0.117947,0.266682,0,0,0
+282,2017-07-28,11:00:00,Morning,CBC,"Supreme Court quashes seismic testing in Nunavut, but gives green light to Enbridge pipeline",neutral,0.0,0.116105,0.085569,0.151663,0.190584,0.301239,0,0,0
+283,2017-07-28,11:00:00,Morning,CBC,"'We're concerned': After Supreme Court rulings, duty to consult a hot topic at AFN meeting",negative,-0.304583,0.109881,0.307888,0.260199,0.108511,0.148199,0,0,0
+284,2017-07-28,11:00:00,Morning,CBC,Shorter routes sought as rate of postal worker injuries rises,neutral,0.0,0.519224,0.072426,0.105767,0.15849,0.059688,0,0,0
+285,2017-07-28,11:00:00,Morning,CBC,Midweek podcast: Duty to consult and NAFTA disputes,negative,-0.755188,0.054969,0.076219,0.691823,0.021971,0.226235,0,0,0
+286,2017-07-28,11:00:00,Morning,CBC,Canada's endangered wild ginseng under threat from poachers ,negative,-0.642091,0.120474,0.899381,0.048459,0.096998,0.025308,0,0,0
+287,2017-07-28,11:00:00,Morning,CBC,Cruise missile threat biggest priority in upcoming Norad makeover,negative,-0.586207,0.178313,0.692372,0.077519,0.153772,0.026662,0,0,0
+288,2017-07-29,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
+289,2017-07-29,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
+290,2017-07-29,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
+291,2017-07-29,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
+292,2017-07-29,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
+293,2017-07-29,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
+294,2017-07-29,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
+295,2017-07-29,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
+296,2017-07-29,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
+297,2017-07-29,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
+298,2017-07-29,11:00:00,Morning,CBC,"Time for fighting has passed, Trudeau says ahead of meeting with Manitoba premier",positive,0.501106,0.268979,0.018683,0.054316,0.018237,0.414349,0,0,1
+299,2017-07-29,11:00:00,Morning,CBC,First Nations leaders reject call for MMIWG commissioners to step down,negative,-0.699046,0.498318,0.060376,0.275776,0.278616,0.045738,0,0,0
+300,2017-07-29,11:00:00,Morning,CBC,MMIWG inquiry now reviewing conduct of police officers,neutral,0.0,0.175322,0.141516,0.251504,0.358473,0.058857,0,0,0
+301,2017-07-29,11:00:00,Morning,CBC,DND brass worried as military cops unable to enforce provincial mental health laws,negative,-0.491408,0.451204,0.658802,0.080817,0.071044,0.005592,0,0,0
+302,2017-07-29,11:00:00,Morning,CBC,The Pollcast: Lessons from when the right united in federal politics,neutral,0.0,0.398893,0.046994,0.092437,0.086913,0.196057,0,0,0
+303,2017-07-29,11:00:00,Morning,CBC,U.S. Republican leaders announce end of border tax proposal,neutral,0.0,0.131893,0.030311,0.084286,0.569224,0.319003,0,0,0
+304,2017-07-30,11:00:00,Morning,CBC,Trudeau urges Canadians to donate to the Red Cross at B.C. wildfire fundraiser,neutral,0.0,0.085009,0.158048,0.090016,0.204525,0.264754,0,0,1
+305,2017-07-30,11:00:00,Morning,CBC,Omnitrax must repair Churchill rail line: Justin Trudeau,neutral,0.0,0.180299,0.060687,0.215334,0.196285,0.076985,0,0,1
+306,2017-07-30,11:00:00,Morning,CBC,Ottawa ready to review Saudi arms deals amid crackdown,negative,-0.670038,0.084464,0.186396,0.059366,0.044528,0.342573,0,0,0
+307,2017-07-30,11:00:00,Morning,CBC,"Christy Clark, a polarizing premier, leaves the political arena with an uncertain legacy",negative,-0.331435,0.48954,0.074548,0.177246,0.147871,0.0631,0,0,0
+308,2017-07-30,11:00:00,Morning,CBC,"Warship design competition on track, Public Works officials say",neutral,0.0,0.078096,0.22056,0.246226,0.196566,0.376823,0,0,0
+309,2017-07-30,11:00:00,Morning,CBC,Christy Clark resigns as leader of B.C. Liberal Party,neutral,0.0,0.056883,0.163851,0.407384,0.571819,0.062373,0,0,0
+310,2017-07-30,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
+311,2017-07-30,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
+312,2017-07-30,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
+313,2017-07-30,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
+314,2017-07-30,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
+315,2017-07-30,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
+316,2017-07-30,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
+317,2017-07-30,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
+318,2017-07-30,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
+319,2017-07-30,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
+320,2017-07-31,11:00:00,Morning,CBC,Trudeau urges Canadians to donate to the Red Cross at B.C. wildfire fundraiser,neutral,0.0,0.085009,0.158048,0.090016,0.204525,0.264754,0,0,1
+321,2017-07-31,11:00:00,Morning,CBC,Omnitrax must repair Churchill rail line: Justin Trudeau,neutral,0.0,0.180299,0.060687,0.215334,0.196285,0.076985,0,0,1
+322,2017-07-31,11:00:00,Morning,CBC,Ottawa ready to review Saudi arms deals amid crackdown,negative,-0.670038,0.084464,0.186396,0.059366,0.044528,0.342573,0,0,0
+323,2017-07-31,11:00:00,Morning,CBC,"Christy Clark, a polarizing premier, leaves the political arena with an uncertain legacy",negative,-0.331435,0.48954,0.074548,0.177246,0.147871,0.0631,0,0,0
+324,2017-07-31,11:00:00,Morning,CBC,"Warship design competition on track, Public Works officials say",neutral,0.0,0.078096,0.22056,0.246226,0.196566,0.376823,0,0,0
+325,2017-07-31,11:00:00,Morning,CBC,Christy Clark resigns as leader of B.C. Liberal Party,neutral,0.0,0.056883,0.163851,0.407384,0.571819,0.062373,0,0,0
+326,2017-07-31,11:00:00,Morning,CBC,What the Supreme Court rulings mean for pipeline proponents (it could be good news),neutral,0.0,0.09062,0.091678,0.037442,0.205669,0.440821,0,0,0
+327,2017-07-31,11:00:00,Morning,CBC,Dozens of MPs could pay higher taxes after finance minister moves to close loophole,neutral,0.0,0.242979,0.079068,0.059734,0.173346,0.067561,0,0,0
+328,2017-07-31,11:00:00,Morning,CBC,"$1 billion, 18 bullets: Border guards rarely fire guns over last decade",negative,-0.590445,0.670109,0.315614,0.1274,0.075494,0.074848,0,0,0
+329,2017-07-31,11:00:00,Morning,CBC,"The AFN meetings are over, now where does the work begin?",negative,-0.324746,0.185833,0.118377,0.132383,0.001622,0.46934,0,0,0
+330,2017-07-31,11:00:00,Morning,CBC,"'Dithering' by B.C., Ottawa helped kill Pacific NorthWest LNG, energy CEO says",negative,-0.707839,0.305804,0.28984,0.309055,0.05445,0.157581,0,0,0
+331,2017-07-31,11:00:00,Morning,CBC,"Canada's longest-standing First Nations boil water advisory will end in 2018, Liberals say",neutral,0.0,0.26238,0.018706,0.40637,0.503227,0.076425,0,0,0
+332,2017-07-31,11:00:00,Morning,CBC,"Lender risk sharing could exacerbate a housing downturn, fed draft report says",negative,-0.878113,0.525597,0.169025,0.167858,0.05449,0.081532,0,0,0
+333,2017-07-31,11:00:00,Morning,CBC,"B.C. premier says Canada-U.S. close to deal on softwood, but negotiations intense",neutral,0.0,0.410023,0.136086,0.229116,0.081655,0.126264,0,0,0
+334,2017-07-31,11:00:00,Morning,CBC,Federal gov't announces plan to protect caribou after legal action taken,negative,-0.565667,0.226156,0.033177,0.085871,0.25607,0.146879,0,0,0
+335,2017-07-31,11:00:00,Morning,CBC,Red Cross to monitor Canada's immigration detention centres,negative,-0.602486,0.052799,0.124244,0.079311,0.074411,0.181073,0,0,0
