@@ -28,4 +28,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.ipynb_checkpoints
+
 # End of https://www.gitignore.io/api/macos

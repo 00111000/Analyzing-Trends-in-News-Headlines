@@ -1,5 +1,3 @@
-// Morning
-
 {
   "Afghanistan": 5,
   "Australia": 1,
