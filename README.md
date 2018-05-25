@@ -9,10 +9,10 @@
 
 ## Visualizations from the notebook
 
-![Most Frequently Mentioned Countries](https://github.com/00111000/SCREENSHOTS/blob/master/v1.png)
+![Most Frequently Mentioned Countries](https://github.com/00111000/Analyzing-Trends-in-News-Headlines/blob/master/v1.png)
 
-![Most Famous President/Prime Minister](https://github.com/00111000/SCREENSHOTS/blob/master/v2.png)
-![Sentiment Composition of All Headlines](https://github.com/00111000/SCREENSHOTS/blob/master/v3.png)
+![Most Famous President/Prime Minister](https://github.com/00111000/Analyzing-Trends-in-News-Headlines/blob/master/v2.png)
+![Sentiment Composition of All Headlines](https://github.com/00111000/Analyzing-Trends-in-News-Headlines/blob/master/v3.png)
 
 ## There is always room for improvements...
 
